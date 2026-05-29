@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">패턴 1. 시간 기반 반복 k8s Job 템플릿 실행</title>
+  <desc id="desc">J-Jobs가 일정에 따라 k8s Job 템플릿을 실행하고 Kubernetes가 일회성 Job Pod를 생성해 작업과 로그를 처리하는 구조</desc>
+  <defs>
+    <linearGradient id="bg0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffdf6"/>
+      <stop offset="100%" stop-color="#eef7ff"/>
+    </linearGradient>
+    <linearGradient id="cluster0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+    <filter id="shadow0" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#101828" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow0" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#1570ef"/>
+    </marker>
+    <marker id="arrow1" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#f79009"/>
+    </marker>
+    <style>
+      .title { font: 700 34px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #101828; }
+      .subtitle { font: 500 17px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #475467; }
+      .cardTitle { font: 700 24px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #101828; }
+      .cardText { font: 500 18px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #344054; }
+      .small { font: 600 15px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #475467; }
+      .chip { font: 700 14px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #b54708; }
+      .label { font: 700 16px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #1d2939; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg0)"/>
+
+  <text x="90" y="90" class="title">패턴 1. 시간 기반 반복 k8s Job 템플릿 실행</text>
+  <text x="90" y="125" class="subtitle">로컬 Shell Script 대신 Docker image 기반 Job Pod를 일정에 따라 반복 실행하는 구조</text>
+
+  <g filter="url(#shadow0)">
+    <rect x="90" y="210" width="300" height="240" rx="28" fill="#ffffff" stroke="#d0d5dd"/>
+    <text x="160" y="270" class="cardTitle">J-Jobs</text>
+    <text x="135" y="320" class="cardText">스케줄 / 반복 일정</text>
+    <text x="135" y="356" class="cardText">k8s Job 템플릿 실행</text>
+    <text x="135" y="392" class="cardText">이력 / 로그 / 제어</text>
+  </g>
+
+  <g filter="url(#shadow0)">
+    <rect x="470" y="250" width="260" height="160" rx="28" fill="#fff7ed" stroke="#fdba74"/>
+    <text x="535" y="305" class="cardTitle">Docker Image</text>
+    <text x="525" y="340" class="cardText">Shell Script</text>
+    <text x="525" y="372" class="small">런타임 / 라이브러리 포함</text>
+  </g>
+
+  <g filter="url(#shadow0)">
+    <rect x="820" y="150" width="680" height="470" rx="34" fill="url(#cluster0)" stroke="#b2ddff" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="870" y="205" class="cardTitle">Kubernetes Cluster</text>
+
+    <rect x="890" y="255" width="270" height="120" rx="24" fill="#eef4ff" stroke="#c7d7fe"/>
+    <text x="955" y="302" class="label">k8s Job Template</text>
+    <text x="942" y="337" class="cardText">Job 생성 / 상태 추적</text>
+
+    <rect x="1220" y="255" width="220" height="120" rx="24" fill="#ecfdf3" stroke="#abefc6"/>
+    <text x="1285" y="302" class="label">일회성 Job Pod</text>
+    <text x="1274" y="337" class="cardText">작업 수행 후 종료</text>
+
+    <rect x="920" y="430" width="500" height="125" rx="24" fill="#ffffff" stroke="#d0d5dd"/>
+    <text x="1110" y="480" class="label">표준출력 로그 / 상태 회수</text>
+    <text x="1012" y="518" class="cardText">J-Jobs가 업무 Pod의 로그와 완료 상태를 추적</text>
+  </g>
+
+  <g filter="url(#shadow0)">
+    <rect x="260" y="680" width="1080" height="110" rx="26" fill="#fff3e8" stroke="#f79009"/>
+    <text x="635" y="728" class="cardTitle">운영 관점의 장점</text>
+    <text x="430" y="764" class="cardText">상시 자원 확보 불필요, 실행 시점에만 Pod 생성, image 기준으로 환경 일관성 유지</text>
+  </g>
+
+  <line x1="390" y1="330" x2="470" y2="330" stroke="#1570ef" stroke-width="6" marker-end="url(#arrow0)"/>
+  <line x1="730" y1="330" x2="890" y2="315" stroke="#1570ef" stroke-width="6" marker-end="url(#arrow0)"/>
+  <line x1="1160" y1="315" x2="1220" y2="315" stroke="#1570ef" stroke-width="5" marker-end="url(#arrow0)"/>
+  <line x1="1330" y1="375" x2="1250" y2="430" stroke="#f79009" stroke-width="5" marker-end="url(#arrow1)"/>
+</svg>

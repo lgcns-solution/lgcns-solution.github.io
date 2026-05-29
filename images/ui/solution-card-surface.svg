@@ -1,0 +1,51 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="116.5" y1="51" x2="1035.5" y2="835" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F9FD"/>
+      <stop offset="0.52" stop-color="#FBFDFF"/>
+      <stop offset="1" stop-color="#F2F7FC"/>
+    </linearGradient>
+    <linearGradient id="facetA" x1="84" y1="34" x2="502" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDF6FC"/>
+      <stop offset="1" stop-color="#E0EEF9"/>
+    </linearGradient>
+    <linearGradient id="facetB" x1="365" y1="152" x2="809" y2="612" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF6FC"/>
+      <stop offset="1" stop-color="#E2EEF8"/>
+    </linearGradient>
+    <linearGradient id="facetC" x1="622" y1="257" x2="1148" y2="759" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2F8FD"/>
+      <stop offset="1" stop-color="#E4EFF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(842 164) rotate(124.089) scale(690.884 913.59)">
+      <stop stop-color="#EAF5FC"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="grain" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="7" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0
+                                           0 1 0 0 0
+                                           0 0 1 0 0
+                                           0 0 0 0.03 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 0H372L684 365H292L0 0Z" fill="url(#facetA)"/>
+  <path d="M0 210L292 365L522 635H192L0 395V210Z" fill="#EFF7FC"/>
+  <path d="M292 365H684L915 634H522L292 365Z" fill="url(#facetB)"/>
+  <path d="M684 365H1200V640H915L684 365Z" fill="#F1F8FD"/>
+  <path d="M522 635H915L1200 900H738L522 635Z" fill="url(#facetC)"/>
+  <path d="M0 395L192 635L0 900V395Z" fill="#F3F9FD"/>
+  <path d="M192 635H522L738 900H0L192 635Z" fill="#F8FBFE"/>
+
+  <path d="M0 0L292 365" stroke="#D8E9F5" stroke-width="2"/>
+  <path d="M292 365L522 635" stroke="#D5E6F3" stroke-width="2"/>
+  <path d="M684 365L915 634" stroke="#D4E4F2" stroke-width="2"/>
+  <path d="M522 635L738 900" stroke="#D9E8F4" stroke-width="2"/>
+  <path d="M292 365H684" stroke="#DDEBF5" stroke-width="2"/>
+  <path d="M522 635H915" stroke="#DCE9F4" stroke-width="2"/>
+
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" filter="url(#grain)"/>
+</svg>

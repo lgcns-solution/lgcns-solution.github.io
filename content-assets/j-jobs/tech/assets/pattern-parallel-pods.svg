@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">패턴 4. 대량 데이터를 분할해 다수 Pod로 병렬 처리</title>
+  <desc id="desc">J-Jobs가 대량 데이터를 여러 분할 단위로 나누고 다수의 Pod를 병렬 실행한 뒤 결과를 집계하는 구조</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffaf5"/>
+      <stop offset="100%" stop-color="#f5f8ff"/>
+    </linearGradient>
+    <linearGradient id="data" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff1d6"/>
+      <stop offset="100%" stop-color="#ffe4b5"/>
+    </linearGradient>
+    <linearGradient id="cluster3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+    <filter id="shadow3" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#101828" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrowCoral" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#f04438"/>
+    </marker>
+    <marker id="arrowBlue3" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#1570ef"/>
+    </marker>
+    <marker id="arrowGreen3" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#12b76a"/>
+    </marker>
+    <style>
+      .title { font: 700 34px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #101828; }
+      .subtitle { font: 500 17px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #475467; }
+      .cardTitle { font: 700 24px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #101828; }
+      .cardText { font: 500 18px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #344054; }
+      .small { font: 600 15px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #475467; }
+      .label { font: 700 17px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #1d2939; }
+      .pod { font: 700 18px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #0c4a6e; }
+      .chip { font: 700 14px 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #b42318; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg3)"/>
+
+  <text x="90" y="90" class="title">패턴 4. 대량 데이터를 분할해 다수 Pod로 병렬 처리</text>
+  <text x="90" y="125" class="subtitle">Mapper가 분할 기준을 만들고 J-Jobs가 병렬 실행과 전체 완료 판정을 담당하는 구조</text>
+
+  <g filter="url(#shadow3)">
+    <rect x="90" y="245" width="250" height="250" rx="30" fill="url(#data)" stroke="#fdb022"/>
+    <text x="155" y="315" class="cardTitle">입력 데이터</text>
+    <text x="145" y="360" class="cardText">대량 대상 조회</text>
+    <text x="145" y="398" class="cardText">예: 정산, 변환, 집계</text>
+    <text x="145" y="436" class="small">순차 처리 시 시간이 길어지는 업무</text>
+  </g>
+
+  <g filter="url(#shadow3)">
+    <rect x="410" y="210" width="310" height="160" rx="28" fill="#ffffff" stroke="#d0d5dd"/>
+    <text x="470" y="265" class="cardTitle">Mapper / Partitioner</text>
+    <text x="480" y="308" class="cardText">데이터 범위 분할</text>
+    <text x="480" y="340" class="small">분할 기준, 크기, 병렬도 결정</text>
+
+    <rect x="410" y="410" width="310" height="160" rx="28" fill="#ffffff" stroke="#d0d5dd"/>
+    <text x="488" y="465" class="cardTitle">J-Jobs</text>
+    <text x="470" y="508" class="cardText">Plan / 파라미터 생성</text>
+    <text x="470" y="540" class="small">병렬 호출, 상태 집계, 재실행 제어</text>
+  </g>
+
+  <g filter="url(#shadow3)">
+    <rect x="810" y="160" width="690" height="500" rx="34" fill="url(#cluster3)" stroke="#b2ddff" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="860" y="215" class="cardTitle">Kubernetes Cluster</text>
+
+    <rect x="870" y="270" width="250" height="130" rx="24" fill="#e0f2fe" stroke="#7dd3fc"/>
+    <text x="925" y="322" class="pod">Worker Pod 1</text>
+    <text x="928" y="356" class="small">Partition A</text>
+
+    <rect x="1160" y="270" width="250" height="130" rx="24" fill="#e0f2fe" stroke="#7dd3fc"/>
+    <text x="1215" y="322" class="pod">Worker Pod 2</text>
+    <text x="1218" y="356" class="small">Partition B</text>
+
+    <rect x="870" y="440" width="250" height="130" rx="24" fill="#e0f2fe" stroke="#7dd3fc"/>
+    <text x="925" y="492" class="pod">Worker Pod 3</text>
+    <text x="928" y="526" class="small">Partition C</text>
+
+    <rect x="1160" y="440" width="250" height="130" rx="24" fill="#e0f2fe" stroke="#7dd3fc"/>
+    <text x="1215" y="492" class="pod">Worker Pod N</text>
+    <text x="1218" y="526" class="small">Partition N</text>
+  </g>
+
+  <g filter="url(#shadow3)">
+    <rect x="430" y="675" width="790" height="120" rx="26" fill="#ecfdf3" stroke="#75e0a7"/>
+    <text x="732" y="723" class="cardTitle">결과 집계 / 전체 완료 판정</text>
+    <text x="545" y="760" class="cardText">모든 하위 실행 종료 후 성공/실패 집계, 실패 분할만 재실행 가능</text>
+  </g>
+
+  <g filter="url(#shadow3)">
+    <rect x="1260" y="675" width="240" height="120" rx="26" fill="#fff3e8" stroke="#fd853a"/>
+    <text x="1318" y="723" class="cardTitle">운영 포인트</text>
+    <text x="1288" y="760" class="small">데이터 편중 방지</text>
+    <text x="1288" y="785" class="small">중복 처리 방지</text>
+  </g>
+
+  <line x1="340" y1="370" x2="410" y2="290" stroke="#f04438" stroke-width="6" marker-end="url(#arrowCoral)"/>
+  <line x1="570" y1="370" x2="570" y2="410" stroke="#f04438" stroke-width="6" marker-end="url(#arrowCoral)"/>
+  <text x="343" y="323" class="small">분할 기준 생성</text>
+
+  <line x1="720" y1="490" x2="870" y2="335" stroke="#1570ef" stroke-width="6" marker-end="url(#arrowBlue3)"/>
+  <line x1="720" y1="490" x2="1160" y2="335" stroke="#1570ef" stroke-width="6" marker-end="url(#arrowBlue3)"/>
+  <line x1="720" y1="490" x2="870" y2="505" stroke="#1570ef" stroke-width="6" marker-end="url(#arrowBlue3)"/>
+  <line x1="720" y1="490" x2="1160" y2="505" stroke="#1570ef" stroke-width="6" marker-end="url(#arrowBlue3)"/>
+  <text x="790" y="450" class="small">병렬 실행</text>
+
+  <line x1="995" y1="570" x2="900" y2="675" stroke="#12b76a" stroke-width="5" marker-end="url(#arrowGreen3)"/>
+  <line x1="1285" y1="570" x2="1120" y2="675" stroke="#12b76a" stroke-width="5" marker-end="url(#arrowGreen3)"/>
+  <line x1="995" y1="400" x2="820" y2="675" stroke="#12b76a" stroke-width="5" marker-end="url(#arrowGreen3)"/>
+  <line x1="1285" y1="400" x2="1040" y2="675" stroke="#12b76a" stroke-width="5" marker-end="url(#arrowGreen3)"/>
+  <text x="1170" y="622" class="small">결과 회수</text>
+</svg>

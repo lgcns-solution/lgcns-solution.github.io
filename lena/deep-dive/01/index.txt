@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[5545,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-c20c9604723b1427.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","688","static/chunks/app/%5Bsolution%5D/%5BcontentType%5D/%5Bslug%5D/page-9d36e8ebbc354564.js"],""]
+6:I[7923,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-c20c9604723b1427.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/d2c1ffb734f61872-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/dcb70eb70df27cb3.css","style"]
+:HL["/_next/static/css/b5969a7e0a8860eb.css","style"]
+0:{"P":null,"b":"-yyLlrpMZ14JhGHiO7GTy","p":"","c":["","lena","deep-dive","01",""],"i":false,"f":[[["",{"children":[["solution","lena","d"],{"children":[["contentType","deep-dive","d"],{"children":[["slug","01","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dcb70eb70df27cb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b5969a7e0a8860eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_f367f3 __variable_ca1293 antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":[["solution","lena","d"],["$","$1","c",{"children":[null,"$L7"]}],{"children":[["contentType","deep-dive","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","01","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","677","static/chunks/app/%5Bsolution%5D/layout-491f1cefacfc020a.js"],"Image"]
+14:I[9996,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","677","static/chunks/app/%5Bsolution%5D/layout-491f1cefacfc020a.js"],"default"]
+7:["$","div",null,{"children":[["$","div",null,{"className":"border-b","style":{"borderColor":"#C01D4A30"},"children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-8","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","h1",null,{"className":"text-2xl font-bold","style":{"color":"#C01D4A"},"children":"LENA"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"클라우드 네이티브 웹 애플리케이션 서버"}]]}],["$","div",null,{"className":"flex shrink-0 items-start sm:justify-end","children":["$","div",null,{"className":"flex h-14 w-full max-w-[10rem] items-center justify-start sm:h-16 sm:max-w-[12rem] sm:justify-end","children":["$","$L13",null,{"src":"/logos/lena.svg","alt":"LENA logo","width":173,"height":37,"className":"h-8 w-auto max-w-full origin-left object-contain object-left sm:h-9 sm:origin-right sm:object-right","style":{"transform":"scale(0.6)"},"sizes":"(min-width: 640px) 12rem, 10rem","priority":true}]}]}]]}]}]}],["$","$L14",null,{"solution":"lena","solutionColor":"#C01D4A"}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
+15:T28d1,<p>WAS(Web Application Server) 솔루션을 검토할 때 가장 먼저 비교하게 되는 항목들은 대부분 도입 시점에 확인 가능한 것들입니다. 대표적으로 라이선스 비용, 지원 표준, 기능 매트릭스, 기술지원 서비스 항목 등이 있습니다.</p>
+<p>하지만 실제 운영이 시작되면 처음의 비교표에 포함하지 않았던 요소들이 점점 더 크게 체감되기 시작합니다.</p>
+<p>이번 글에서는 <strong>LENA를 도입한 고객사들의 운영 경험</strong>을 바탕으로, 도입 당시보다 실제 운영 과정에서 더욱 중요하게 다가온 세 가지 관점을 정리해보았습니다.</p>
+<hr>
+<h2>❶ WAS 비용은 라이선스뿐 아니라 운영 구조까지 함께 봐야 합니다</h2>
+<p>WAS 도입 검토 시 가장 먼저 비교하는 항목은 보통 라이선스 비용입니다. 실제로 평가표에서도 높은 비중을 차지하는 항목이죠.</p>
+<p>하지만 실제 운영 환경에서는 <strong>라이선스 자체보다 운영 구조가 전체 비용에 더 큰 영향</strong>을 미치는 경우가 많습니다. 예를 들어 다음과 같은 요소들입니다.</p>
+<ol>
+<li>특정 WAS를 다른 WAS로 전환할 때 특정 기능 의존성으로 인해 발생하는 의사결정 제약 및 Application 전환 비용이 들 수 있습니다.</li>
+<li>전문가가 수행해야 하는 복잡한 운영 환경에 따라 지속적으로 추가되는 운영 에포트 증가 및 휴먼 에러에 따른 대응 비용이 들 수 있습니다.</li>
+<li>세션 클러스터링을 위한 캐시 서버 별도 구매 등, 필수 기능 구현을 위해 추가되는 솔루션 구매 비용 및 유지보수 비용이 들 수 있습니다.</li>
+</ol>
+<p>이러한 차이는 시간이 지날수록 <strong>운영 효율성과 TCO 차이</strong>로 이어집니다. 따라서 비용 고려 시에는 라이선스 비용뿐 아니라 운영 이후의 구조까지 함께 고려하는 것이 중요합니다.</p>
+<blockquote>
+<p><strong>결정 시점에 봐야 할 주요 포인트 (1)</strong></p>
+<ul>
+<li>벤더 의존성이 존재하는가?</li>
+<li>운영 가시성을 확보하고 쉽게 운영할 수 있는가?</li>
+<li>세션 클러스터링 등 핵심 기능이 기본 제공되는가?</li>
+</ul>
+</blockquote>
+<p>LENA는 합리적인 라이선스 비용과 함께 다음과 같은 특징을 통해 운영 비용 최적화를 지원합니다.</p>
+<ol>
+<li>Lock-in 없는 글로벌 표준 기반의 엔터프라이즈 솔루션입니다.</li>
+<li>단일 웹 콘솔 기반의 통합 관리 환경을 제공하여 다수 서버를 쉽고 휴먼 에러를 최소화하며 관리 가능합니다.</li>
+<li>자체 개발한 LENA 세션 서버를 제공하여 별도 솔루션 구매가 불필요합니다.</li>
+</ol>
+<h3>LENA 도입 효과 사례</h3>
+<ul>
+<li><strong>사례 1.</strong> A사는 다양한 종류의 WAS 제품으로 운영하고 있었으나, LENA를 표준 WAS로 도입하여 라이선스 비용 절감 및 중앙 집중형 통합 운영 구조를 통해 운영 효율성도 함께 향상하여 <strong>기존 상용 WAS 대비 약 40% 수준의 TCO 절감 효과</strong>를 확인했습니다.</li>
+<li><strong>사례 2.</strong> B사는 기존에 세션 클러스터링을 위해 별도의 캐시 솔루션을 사용해 운영하고 있었습니다. LENA 전환 이후에는 LENA가 제공하는 자체 세션 서버를 활용하면서 캐시 솔루션을 제거하여 <strong>아키텍처를 단순화하고 유지보수 비용을 크게 줄일 수 있었습니다.</strong></li>
+</ul>
+<hr>
+<h2>❷ 표준 준수는 기본이고, 운영 기능의 차이가 실제 운영 품질을 결정합니다</h2>
+<p>WAS를 비교할 때 Jakarta EE, JDK 버전과 같은 표준 스펙 준수는 필수 항목입니다. 같은 표준을 지원해야 동일한 출발선에 설 수 있기 때문입니다.</p>
+<p>하지만 같은 출발선에 있다고 해서 운영 결과까지 같아지는 것은 아닙니다. <strong>표준 위에 어떤 운영 기능이 제공되는지에 따라 운영팀이 매일 마주하는 경험은 크게 달라집니다.</strong></p>
+<p>대표적으로 다음과 같은 영역에서 차이가 발생합니다.</p>
+<ol>
+<li>최신 Jakarta EE Spec 또는 JDK 기반 애플리케이션 사용 시, WAS 지원 여부가 운영 유연성에 직접적인 영향을 미칩니다.</li>
+<li>서버 수가 많아질수록 개별 관리 방식은 한계에 도달하며, 설정 변경 과정에서 휴먼 에러 가능성이 증가할 수 있습니다.</li>
+<li>운영 안정성을 위해서는 장애 조기 감지 체계가 더욱 중요하며, 실제 장애가 발생했을 때 분석을 위한 데이터가 분산되어 있거나 연계 분석이 어렵다면 장애 대응에 많은 시간과 에포트가 소모됩니다.</li>
+</ol>
+<p>결국 이러한 요소들은 <strong>장기간 안정적인 서비스를 운영하기 위해 반드시 고려해야 하는 영역</strong>입니다.</p>
+<blockquote>
+<p><strong>결정 시점에 봐야 할 주요 포인트 (2)</strong></p>
+<ul>
+<li>최신 기술 스택을 안정적으로 지원할 수 있는가?</li>
+<li>서버 규모가 커져도 운영 복잡도를 통제할 수 있는가?</li>
+<li>장애를 조기에 감지할 수 있는 체계 및 장애 원인 분석/대응이 용이한가?</li>
+</ul>
+</blockquote>
+<p>LENA는 다음과 같은 운영 최적화 기능을 제공합니다.</p>
+<ol>
+<li>최신 Jakarta EE Spec 및 JDK를 신속하게 지원합니다.</li>
+<li>동일 서비스를 제공하는 서버들을 Cluster로 묶어 하나의 서버처럼 관리할 수 있어 설정 일관성 및 일괄 제어를 통한 운영 효율화를 얻을 수 있습니다. <em>(특허 기술)</em></li>
+<li>장애 상황을 사전에 진단하고, 필요한 백데이터 및 리포트를 자동 생성하는 기능을 제공합니다. <em>(특허 기술)</em></li>
+</ol>
+<h3>LENA 도입 효과 사례</h3>
+<ul>
+<li><strong>사례 1.</strong> C사는 최신 기술 기반 애플리케이션 운영을 위해 최신 JDK 지원이 필요했지만, 기존 상용 WAS가 이를 지원하지 않아 오픈소스 WAS를 병행 운영하고 있었습니다. 이후 최신 JDK를 지원하는 LENA로 전환하면서 <strong>운영 안정성과 최신 애플리케이션 활용 환경을 동시에 확보</strong>할 수 있었습니다.</li>
+<li><strong>사례 2.</strong> D사는 전사 클라우드 전환 과정에서 LENA를 표준 WAS로 도입했습니다. 장애 진단 및 대응 기능을 활용해 전사에서 운영되고 있는 시스템의 장애를 빠르게 식별하고 원인을 분석할 수 있었으며, 이를 통해 <strong>운영 안정성을 높일 수 있었습니다.</strong></li>
+</ul>
+<hr>
+<h2>❸ 기술 지원의 품질은 단순히 숫자로만 평가하기 어렵습니다</h2>
+<p>기술지원 대응 시간과 같은 수치는 기술 지원을 평가할 때 중요한 기준 중 하나입니다.</p>
+<p>하지만 실제 운영 환경에서는 조금 다른 요소들이 더 중요하게 작용하는 경우도 많습니다. 예를 들어 클라우드 또는 컨테이너 전환, 신규 시스템 오픈, 기존 애플리케이션의 환경 이전과 같은 중요한 시점에서는 다음과 같은 부분이 핵심이 됩니다.</p>
+<ol>
+<li>우리 환경에 대한 이해를 기반으로 지원이 제공되는가?</li>
+<li>이슈 발생 시 얼마나 신속하고 정확하게 원인을 함께 분석할 수 있는가?</li>
+<li>미들웨어 전환 과정의 문제를 함께 해결할 수 있는 경험과 체계를 갖추고 있는가?</li>
+</ol>
+<p>이러한 영역은 숫자로 표현되기 어렵지만, 실제 운영에서는 <strong>가장 결정적인 차이를 만드는 요소</strong>가 됩니다. 기술지원 서비스의 바탕이 되는 높은 아키텍처 역량, 다양한 운영 경험, 축적된 트러블슈팅 노하우와 전환 경험은 운영 안정성에 직접적인 영향을 미칩니다.</p>
+<blockquote>
+<p><strong>결정 시점에 봐야 할 주요 포인트 (3)</strong></p>
+<ul>
+<li>다양한 환경 기반의 미들웨어 및 아키텍처 역량을 보유하고 있는가?</li>
+<li>충분한 구축 및 운영 경험 기반의 트러블슈팅 노하우가 있는가?</li>
+<li>다양한 산업과 규모에서 검증된 WAS 전환 방법론을 보유하고 있는가?</li>
+</ul>
+</blockquote>
+<p>LENA는 다음과 같은 전문 기술지원 서비스를 제공합니다.</p>
+<ol>
+<li>온프레미스, 클라우드, 컨테이너, MSA 환경까지 아우르는 미들웨어 구축 컨설팅 및 기술지원 서비스를 제공합니다.</li>
+<li>다양한 고객 환경 기반의 트러블슈팅 노하우를 보유하고 있습니다.</li>
+<li>다수의 WAS 전환 사례를 기반으로 체계화된 안정적인 마이그레이션 방법론을 보유하고 있어 최소화된 리스크로 전환이 가능합니다.</li>
+</ol>
+<h3>LENA 도입 효과 사례</h3>
+<ul>
+<li><strong>사례 1.</strong> E대학교는 오래된 Spec 기반으로 만들어진 애플리케이션을 업그레이드하는 것과 대규모 사용자 트래픽을 버텨야 하는 두 가지 과제를 동시에 안고 있었습니다. LENA의 전문 기술지원 서비스를 통해 Spec 업그레이드를 성공적으로 완료했으며, 서비스 구축 이후 <strong>매년 반복되는 수강신청 부하 상황에서 안정적으로 서비스가 운영</strong>되고 있습니다.</li>
+<li><strong>사례 2.</strong> F사는 동일한 애플리케이션을 운영하면서 인프라 환경이 온프레미스 → 클라우드 → 컨테이너 환경으로 단계적으로 변화한 사례입니다. LENA의 클라우드 최적화 기능을 사용하면서, <strong>각 단계에 적합한 전문 기술지원 서비스</strong>를 제공하여 인프라 전환을 안정적으로 지원했습니다.</li>
+</ul>
+<hr>
+<h2>마치며</h2>
+<p>WAS를 선정하는 과정에서는 다양한 제품 비교가 이루어집니다. 이 과정에서 <strong>운영 구조, 운영 효율성, 기술지원 체계</strong>와 같이 비교표만으로는 드러나지 않는 요소들이 장기적인 운영 비용과 안정성에 큰 영향을 미칠 수 있습니다.</p>
+<p>이러한 관점까지 함께 고려한다면, 보다 균형 잡힌 장기 운영 관점의 선택 기준을 만들 수 있을 것입니다.</p>8:["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L5",null,{"href":"/lena/deep-dive","className":"mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-foreground transition-colors","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"Deep Dive"," 목록으로"]}],["$","header",null,{"className":"mb-8","children":["$undefined",["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-foreground sm:text-4xl","children":"WAS 도입 1년 후, 다시 보게 되는 세 가지"}],["$","p",null,{"className":"mt-3 text-lg text-muted","children":"WAS 도입 시점의 비교표에는 잘 드러나지 않지만, 실제 운영 1년 후에 더 크게 체감되는 세 가지 관점 — 운영 구조, 운영 기능, 기술지원 — 을 LENA 도입 사례와 함께 정리합니다."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 border-y border-border py-4 text-sm text-muted","children":[["$","time",null,{"dateTime":"$D2026-05-28T00:00:00.000Z","children":"2026년 5월 28일"}],[["$","span",null,{"className":"text-border","children":"|"}],["$","span",null,{"children":"LENA"}]],"$undefined","$undefined"]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","LENA",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"LENA"}],["$","span","WAS",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"WAS"}],["$","span","미들웨어",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"미들웨어"}],["$","span","TCO",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"TCO"}],["$","span","운영",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"운영"}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-gray-700 prose-a:text-blue-600 prose-strong:text-foreground","dangerouslySetInnerHTML":{"__html":"$15"}}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+16:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"WAS 도입 1년 후, 다시 보게 되는 세 가지 | LG CNS Solutions"}],["$","meta","1",{"name":"description","content":"WAS 도입 시점의 비교표에는 잘 드러나지 않지만, 실제 운영 1년 후에 더 크게 체감되는 세 가지 관점 — 운영 구조, 운영 기능, 기술지원 — 을 LENA 도입 사례와 함께 정리합니다."}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L16","3",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
