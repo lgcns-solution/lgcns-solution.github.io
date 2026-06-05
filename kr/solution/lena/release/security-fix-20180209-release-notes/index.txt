@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[5545,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-57abc5ba3bc77bf3.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","479","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/%5BcontentType%5D/%5Bslug%5D/page-c062b2278a6bcdcb.js"],""]
+6:I[7923,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-57abc5ba3bc77bf3.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/d2c1ffb734f61872-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/dcb70eb70df27cb3.css","style"]
+:HL["/_next/static/css/baaa5e1df0aa00dc.css","style"]
+0:{"P":null,"b":"yC1eLR8IqbYx7SBXFBfnc","p":"","c":["","kr","solution","lena","release","security-fix-20180209-release-notes",""],"i":false,"f":[[["",{"children":[["locale","kr","d"],{"children":["solution",{"children":[["solution","lena","d"],{"children":[["contentType","release","d"],{"children":[["slug","security-fix-20180209-release-notes","d"],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dcb70eb70df27cb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/baaa5e1df0aa00dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_f367f3 __variable_ca1293 antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"LG CNS\",\"url\":\"https://www.lgcns.com\",\"sameAs\":[\"https://github.com/lgcns-solution\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"LG CNS Solutions\",\"url\":\"https://lgcns-solution.github.io\",\"inLanguage\":\"ko-KR\"}]"}}],["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":[["locale","kr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["solution",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["solution","lena","d"],["$","$1","c",{"children":[null,"$L7"]}],{"children":[["contentType","release","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","security-fix-20180209-release-notes","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-426ecc65c8bc62e7.js"],"Image"]
+14:I[9996,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-426ecc65c8bc62e7.js"],"default"]
+7:["$","div",null,{"children":[["$","div",null,{"className":"border-b","style":{"borderColor":"#C01D4A30"},"children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-8","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","$L5",null,{"href":"/kr/solution/lena/","className":"text-2xl font-bold","style":{"color":"#C01D4A"},"children":"LENA"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"클라우드 네이티브 웹 애플리케이션 서버"}]]}],["$","div",null,{"className":"flex shrink-0 items-start sm:justify-end","children":["$","div",null,{"className":"flex h-14 w-full max-w-[10rem] items-center justify-start sm:h-16 sm:max-w-[12rem] sm:justify-end","children":["$","$L13",null,{"src":"/logos/lena.svg","alt":"LENA logo","width":173,"height":37,"className":"h-8 w-auto max-w-full origin-left object-contain object-left sm:h-9 sm:origin-right sm:object-right","style":{"transform":"scale(0.6)"},"sizes":"(min-width: 640px) 12rem, 10rem","priority":true}]}]}]]}]}]}],["$","$L14",null,{"solution":"lena","solutionColor":"#C01D4A","locale":"kr"}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
+15:T58e,[{"@context":"https://schema.org","@type":"TechArticle","headline":"LENA 보안 업데이트 리포트 (security fix#20180209)","description":"LENA 보안 업데이트 리포트 (security fix#20180209)의 개선된 취약점과 보안 반영 내역입니다.","datePublished":"2018-07-12","dateModified":"2018-07-12","inLanguage":"ko-KR","image":["https://lgcns-solution.github.io/og-default.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/"},"url":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/","publisher":{"@type":"Organization","name":"LG CNS Solutions","url":"https://lgcns-solution.github.io"},"author":{"@type":"Person","name":"LENA 기술지원"},"about":{"@type":"SoftwareApplication","name":"LENA","applicationCategory":"BusinessApplication"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"LENA","item":"https://lgcns-solution.github.io/kr/solution/lena/"},{"@type":"ListItem","position":2,"name":"릴리스 노트","item":"https://lgcns-solution.github.io/kr/solution/lena/release/"},{"@type":"ListItem","position":3,"name":"LENA 보안 업데이트 리포트 (security fix#20180209)","item":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/"}]}]16:Tf15,<p>LENA 1.2.4 보안 업데이트 리포트 내용입니다.</p>
+<h2>LENA 1.2.0-4 security fix#20180209</h2>
+<h2>개선된 취약점</h2>
+<h4>LENA WAS</h4>
+<ul>
+<li>CVE-2017-12617,</li>
+<li>CVE-2017-12616, CVE-2017-12615,</li>
+<li>CVE-2017-7674,</li>
+<li>CVE-2017-5664, CVE-2017-5647, CVE-2017-5648</li>
+</ul>
+<h2>주요 취약점 (KISA 신규 취약점 보안 업데이트 권고)</h2>
+<ul>
+<li>CVE-2017-12617 : 서버에서 HTTP PUT 메소드를 사용하도록 설정한 경우 특수하게 조작된 Request 요청을 통해 JSP 파일을 서버에 업로드할 수 있는 원격 코드 실행 취약점</li>
+<li>CVE-2017-12616 : VirtualDirContext 클래스 사용 시 해당 클래스가 제공하는 리소스에 대해 보안 정책을 우회하여 jsp 소스 코드를 볼 수 있는 정보 노출 취약점</li>
+<li>CVE-2017-12615 : PUT 메소드를 사용하여 Windows에 HTTP 요청을 보낼 때 이를 조작하여 jsp 파일을 서버에 업로드할 수 있는 원격 코드 실행 취약점</li>
+<li>CVE-2017-5648 : Security Manager 클래스에서 신뢰할 수 없는 응용 프로그램 실행 중 잘못된 객체 참조로 인해 다른 웹 응용 프로그램의 정보에 접근 가능한 정보 노출 취약점</li>
+<li>CVE-2017-5647 : 이전 파일 전송에 대한 처리가 완료될 때 파이프라인 된 요청이 손실되면서 잘못된 요청에 응답이 전송되어 발생하는 정보 노출 취약점</li>
+</ul>
+<h2>보안 취약점 상세 정보</h2>
+<h4>LENA WAS</h4>
+<table>
+<thead>
+<tr>
+<th>CVE IDs</th>
+<th>영향도</th>
+<th>취약점형태</th>
+<th>요약</th>
+<th>LENA 반영 버전</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CVE-2017-12617</td>
+<td>Important</td>
+<td>Remote Code Execution</td>
+<td>PUT 메소드를 사용하여 HTTP 요청시 조작된 JSP파일을 서버에 업로드하여 임의의 코드를 서버에서 실행할 수 있는 취약점 (Default servlet의 readonly 파라메터를 false로 하면 PUT, DELETE 메소드 사용가능)</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-12616</td>
+<td>Important</td>
+<td>Information Disclosure</td>
+<td>VirtualDirContext 클래스 사용시 해당 클래스에서 제공되는 리소스에 대해 보안정책을 우회하여 jsp 소스코드를 볼 수 있는 정보 누출 취약점</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-12615</td>
+<td>Important</td>
+<td>Remote Code Execution</td>
+<td>PUT 메소드를 사용하여 HTTP 요청시 Windows 서버에서 조작된 jsp파일을 업로드하여 임의의 코드를 서버에서 실행 할 수 있는 취약점</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-7674</td>
+<td>Moderate</td>
+<td>Cache Poisoning</td>
+<td>CORS(다른도메인간 통신 가능하게 해주는 스펙) Filter가 HTTP Vary 헤더가 제대로 추가되지 않는 결함으로 client와 server쪽 cache poisoning 공격을 받을 수 있음</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-5664</td>
+<td>Important</td>
+<td>Security Constraint Bypass</td>
+<td>DefaultServlet의 경우 readonly=false로 설정해 놓을 경우, 조작된 HTTP 요청을 처리하여 오류 페이지를 삭제하거나 다른 에러페이지로 바꿀 수 있음</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-5648</td>
+<td>Low</td>
+<td>Remote Code Execution</td>
+<td>PUT 메소드를 사용하여 HTTP 요청시 조작된 JSP파일을 서버에 업로드하여 임의의 코드를 서버에서 실행할 수 있는 취약점 (Default servlet의 readonly 파라메터를 false로 하면 PUT, DELETE 메소드 사용가능)</td>
+<td>1.2.5</td>
+</tr>
+<tr>
+<td>CVE-2017-5647</td>
+<td>Important</td>
+<td>Information Disclosure</td>
+<td>이전 request의 send file 처리가 완료될 때 파이프라인 된 요청이 손실되면서 잘못된 요청에 응답이 전송되어 중요한 정보가 노출 될 수 있음</td>
+<td>1.2.5</td>
+</tr>
+</tbody>
+</table>8:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L5",null,{"href":"/kr/solution/lena/release/","className":"mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-foreground transition-colors","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"릴리스 노트"," 목록으로"]}],["$","header",null,{"className":"mb-8","children":["$undefined",["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-foreground sm:text-4xl","children":"LENA 보안 업데이트 리포트 (security fix#20180209)"}],["$","p",null,{"className":"mt-3 text-lg text-muted","children":"LENA 보안 업데이트 리포트 (security fix#20180209)의 개선된 취약점과 보안 반영 내역입니다."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 border-y border-border py-4 text-sm text-muted","children":[["$","time",null,{"dateTime":"2018-07-12","children":"2018년 7월 12일"}],[["$","span",null,{"className":"text-border","children":"|"}],["$","span",null,{"children":"LENA 기술지원"}]],"$undefined","$undefined"]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","release",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"release"}],["$","span","security",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"security"}],["$","span","security-fix-20180209",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"security-fix-20180209"}],["$","span","changelog",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"changelog"}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-gray-700 prose-a:text-blue-600 prose-strong:text-foreground","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+17:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"LENA 보안 업데이트 리포트 (security fix#20180209) | LG CNS Solutions"}],["$","meta","1",{"name":"description","content":"LENA 보안 업데이트 리포트 (security fix#20180209)의 개선된 취약점과 보안 반영 내역입니다."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"canonical","href":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/"}],["$","link","4",{"rel":"alternate","hrefLang":"ko-KR","href":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/"}],["$","meta","5",{"property":"og:title","content":"LENA 보안 업데이트 리포트 (security fix#20180209)"}],["$","meta","6",{"property":"og:description","content":"LENA 보안 업데이트 리포트 (security fix#20180209)의 개선된 취약점과 보안 반영 내역입니다."}],["$","meta","7",{"property":"og:url","content":"https://lgcns-solution.github.io/kr/solution/lena/release/security-fix-20180209-release-notes/"}],["$","meta","8",{"property":"og:site_name","content":"LG CNS Solutions"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"LENA 보안 업데이트 리포트 (security fix#20180209)"}],["$","meta","14",{"name":"twitter:description","content":"LENA 보안 업데이트 리포트 (security fix#20180209)의 개선된 취약점과 보안 반영 내역입니다."}],["$","meta","15",{"name":"twitter:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","17",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"

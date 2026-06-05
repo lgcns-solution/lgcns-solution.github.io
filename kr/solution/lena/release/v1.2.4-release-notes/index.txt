@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[5545,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-57abc5ba3bc77bf3.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","479","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/%5BcontentType%5D/%5Bslug%5D/page-c062b2278a6bcdcb.js"],""]
+6:I[7923,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-57abc5ba3bc77bf3.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/d2c1ffb734f61872-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/dcb70eb70df27cb3.css","style"]
+:HL["/_next/static/css/baaa5e1df0aa00dc.css","style"]
+0:{"P":null,"b":"yC1eLR8IqbYx7SBXFBfnc","p":"","c":["","kr","solution","lena","release","v1.2.4-release-notes",""],"i":false,"f":[[["",{"children":[["locale","kr","d"],{"children":["solution",{"children":[["solution","lena","d"],{"children":[["contentType","release","d"],{"children":[["slug","v1.2.4-release-notes","d"],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dcb70eb70df27cb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/baaa5e1df0aa00dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_f367f3 __variable_ca1293 antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"LG CNS\",\"url\":\"https://www.lgcns.com\",\"sameAs\":[\"https://github.com/lgcns-solution\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"LG CNS Solutions\",\"url\":\"https://lgcns-solution.github.io\",\"inLanguage\":\"ko-KR\"}]"}}],["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":[["locale","kr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["solution",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["solution","lena","d"],["$","$1","c",{"children":[null,"$L7"]}],{"children":[["contentType","release","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","v1.2.4-release-notes","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-426ecc65c8bc62e7.js"],"Image"]
+14:I[9996,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-426ecc65c8bc62e7.js"],"default"]
+7:["$","div",null,{"children":[["$","div",null,{"className":"border-b","style":{"borderColor":"#C01D4A30"},"children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-8","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","$L5",null,{"href":"/kr/solution/lena/","className":"text-2xl font-bold","style":{"color":"#C01D4A"},"children":"LENA"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"클라우드 네이티브 웹 애플리케이션 서버"}]]}],["$","div",null,{"className":"flex shrink-0 items-start sm:justify-end","children":["$","div",null,{"className":"flex h-14 w-full max-w-[10rem] items-center justify-start sm:h-16 sm:max-w-[12rem] sm:justify-end","children":["$","$L13",null,{"src":"/logos/lena.svg","alt":"LENA logo","width":173,"height":37,"className":"h-8 w-auto max-w-full origin-left object-contain object-left sm:h-9 sm:origin-right sm:object-right","style":{"transform":"scale(0.6)"},"sizes":"(min-width: 640px) 12rem, 10rem","priority":true}]}]}]]}]}]}],["$","$L14",null,{"solution":"lena","solutionColor":"#C01D4A","locale":"kr"}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
+15:T527,[{"@context":"https://schema.org","@type":"TechArticle","headline":"LENA 1.2.4 릴리즈 노트","description":"LENA 1.2.4의 변경 항목과 상세 업데이트 내역입니다.","datePublished":"2017-10-12","dateModified":"2017-10-12","inLanguage":"ko-KR","image":["https://lgcns-solution.github.io/og-default.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/"},"url":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/","publisher":{"@type":"Organization","name":"LG CNS Solutions","url":"https://lgcns-solution.github.io"},"author":{"@type":"Person","name":"LENA 기술지원"},"softwareVersion":"1.2.4","about":{"@type":"SoftwareApplication","name":"LENA","applicationCategory":"BusinessApplication","softwareVersion":"1.2.4"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"LENA","item":"https://lgcns-solution.github.io/kr/solution/lena/"},{"@type":"ListItem","position":2,"name":"릴리스 노트","item":"https://lgcns-solution.github.io/kr/solution/lena/release/"},{"@type":"ListItem","position":3,"name":"LENA 1.2.4 릴리즈 노트","item":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/"}]}]16:T120e,<h2>변경 항목</h2>
+<ul>
+<li>Web Application Server</li>
+<li>Web Server</li>
+</ul>
+<h2>상세 내용</h2>
+<h4>[ Web Application Server, Web Server ]</h4>
+<ul>
+<li>(LENA-3515, 3520) LENA 신규 보안 업데이트 (security fix#20180719) 반영</li>
+<li>릴리즈 날짜 : 2018.07.19</li>
+</ul>
+<h4>LENA 1.2.4 fix#3</h4>
+<h2>변경 항목</h2>
+<ul>
+<li>Web Application Server</li>
+</ul>
+<h2>상세 내용</h2>
+<h4>[ Web Application Server ]</h4>
+<ul>
+<li>(#8201) Apache Tomcat 취약점 CVE-2017-12615, CVE-2017-12616 해결</li>
+<li>(#8200) Apache Tomcat 취약점 CVE-2017-12617 해결</li>
+</ul>
+<h4>LENA 1.2.4 fix#2</h4>
+<ul>
+<li>릴리즈 날짜 : 2017.09.11</li>
+</ul>
+<h2>변경 항목</h2>
+<ul>
+<li>Node Agent</li>
+<li>Management</li>
+<li>Monitoring(Diagnostics)</li>
+</ul>
+<h2>상세 내용</h2>
+<h4>[ Node Agent ]</h4>
+<ul>
+<li>(#8162) Config Tree화면에서 파일 수정시 개행문자 추가되는 현상 해결</li>
+</ul>
+<h4>[ Management ]</h4>
+<ul>
+<li>(#8171) web서버 기동메시지 출력</li>
+</ul>
+<h4>[ Monitoring(Diagnostics) ]</h4>
+<ul>
+<li>(#8160) Monitoring Dashboard CPU 과다 점유현상 개선</li>
+<li>(#8189) StuckThread 모니터링 OPENAPI 추가</li>
+<li>(#8161) Diagnostics에 사용된 외부 js파일을 Lena Manager에서 가져오도록 개선</li>
+</ul>
+<h4>LENA 1.2.4 fix#1</h4>
+<ul>
+<li>릴리즈 날짜 : 2017.07.19</li>
+</ul>
+<h2>변경 항목</h2>
+<ul>
+<li>Web Server</li>
+<li>Install/Patch</li>
+<li>Management</li>
+</ul>
+<h2>상세 내용</h2>
+<h4>[ Web Server ]</h4>
+<ul>
+<li>(#8079) graceful stop 개선</li>
+</ul>
+<h4>[ Install/Patch ]</h4>
+<ul>
+<li>(#8157) Clone 실행 시 FileChannel 사용여부 옵션 추가</li>
+</ul>
+<h4>[ Management ]</h4>
+<ul>
+<li>(#8099) 서버목록조회 화면의 서버세부상태조회 옵션 제공</li>
+<li>(#8156) 서버 상태 조회시 일정시간 Delay가능한 옵션 추가</li>
+<li>(#8153) Patch버전 체크 기능 수정</li>
+</ul>
+<h4>LENA 1.2.4</h4>
+<ul>
+<li>릴리즈 날짜 : 2017.06.30</li>
+</ul>
+<h2>변경 항목</h2>
+<ul>
+<li>Web Server</li>
+<li>Web Application Server</li>
+<li>Session Server</li>
+<li>Install/Patch</li>
+<li>Management</li>
+<li>Monitoring(Diagnostics)</li>
+<li>etc</li>
+</ul>
+<h2>상세 내용</h2>
+<h4>[ Web Server ]</h4>
+<ul>
+<li>(#7984) mod_jk ForwardURI 옵션 변경 : ForwardURICompat > ForwardURIProxy</li>
+<li>(#7950) Tomcat JDBC validationInterval 디폴트값 변경 (30초->3초)</li>
+<li><a href="https://bz.apache.org/bugzilla/show_bug.cgi?id=59923">https://bz.apache.org/bugzilla/show_bug.cgi?id=59923</a></li>
+<li><a href="https://bz.apache.org/bugzilla/show_bug.cgi?id=59923">https://bz.apache.org/bugzilla/show_bug.cgi?id=59923</a></li>
+<li>(#7739) Web서버 서비스 제어모듈 개발(mod_lsc) : 시간, 헤더, 쿠키, URI를 기반으로 서비스를 제어</li>
+<li>(#7674) web서버 failover시 이중거래 방지를 위해 recovery_options를 7로 설정</li>
+</ul>
+<h4>[ Web Application Server ]</h4>
+<ul>
+<li>(#7887) ThreadExecutor 구조개선 : Internal Executor방식 > External Executor방식</li>
+<li>prestartMinSpareThreads 옵션 삭제(tomcat 7.0.76에서 강제로 prestart로 바뀜.)</li>
+<li>maxQueueSize는 connector별로 적용(기존의 acceptCount대체)</li>
+<li>(#7786) HTTP method 제한 설정 (web.xml)</li>
+<li>(#7776) XA Trasaction ID 생성 로직 개선</li>
+</ul>
+<h4>[ Session Server ]</h4>
+<ul>
+<li>(#7699) Zodiac Valve Context URL Parsing 기능 수정 (NCD 신규 버전 대응)</li>
+<li>(#7726)(Bug) Session Clustering Embedded Mode Timeout 우선순위 문제 해결</li>
+</ul>
+<h4>[ Install/Patch ]</h4>
+<ul>
+<li>(#7746)(Bug) 영문 windows에서 날짜 포맷때문에 서비스가 정상적으로 기동되지 못하는 문제 해결</li>
+</ul>
+<h4>[ Management ]</h4>
+<ul>
+<li>(#7989) Manager에서 보여주는 서버 목록 개수를 manager.conf에서 조정할 수 있도록 설정</li>
+<li>(#7888) DataSource Interceptor 설정 기능</li>
+<li>(#7690) Monitoring관련 REST API 기능</li>
+<li>(#7650) 매뉴얼 다운로드 기능</li>
+<li>(#7649) unpackWAR 설정 기능</li>
+<li>(#7644) JDBC 드라이버 파일 등록시 CLASSPATH 추가 기능</li>
+<li>(#7775) Resource화면에서 데이터 소스 테스트 기능</li>
+<li>(#8044)(Bug) VirtualHost Tab에서 CustomLog 복수행 정의 가능하도록 변경</li>
+</ul>
+<h4>[ Monitoring(Diagnostics) ]</h4>
+<ul>
+<li>(#7677) Session Server Monitoring 기능 추가</li>
+<li>(#7361) Peak Control 기능 추가</li>
+</ul>
+<h4>[ etc ]</h4>
+<ul>
+<li>(#7786) OSS 엔진 버전 업그레이드</li>
+<li>LENA WAS : N/A</li>
+<li>LENA Web : Apache Http Server 2.4.23</li>
+</ul>8:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L5",null,{"href":"/kr/solution/lena/release/","className":"mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-foreground transition-colors","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"릴리스 노트"," 목록으로"]}],["$","header",null,{"className":"mb-8","children":["$undefined",["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-foreground sm:text-4xl","children":"LENA 1.2.4 릴리즈 노트"}],["$","p",null,{"className":"mt-3 text-lg text-muted","children":"LENA 1.2.4의 변경 항목과 상세 업데이트 내역입니다."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 border-y border-border py-4 text-sm text-muted","children":[["$","time",null,{"dateTime":"2017-10-12","children":"2017년 10월 12일"}],[["$","span",null,{"className":"text-border","children":"|"}],["$","span",null,{"children":"LENA 기술지원"}]],"$undefined","$undefined"]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","release",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"release"}],["$","span","v1.2.4",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"v1.2.4"}],["$","span","changelog",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#C01D4A15","color":"#C01D4A"},"children":"changelog"}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-gray-700 prose-a:text-blue-600 prose-strong:text-foreground","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+17:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"LENA 1.2.4 릴리즈 노트 | LG CNS Solutions"}],["$","meta","1",{"name":"description","content":"LENA 1.2.4의 변경 항목과 상세 업데이트 내역입니다."}],["$","link","2",{"rel":"canonical","href":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/"}],["$","link","3",{"rel":"alternate","hrefLang":"ko-KR","href":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/"}],["$","meta","4",{"property":"og:title","content":"LENA 1.2.4 릴리즈 노트"}],["$","meta","5",{"property":"og:description","content":"LENA 1.2.4의 변경 항목과 상세 업데이트 내역입니다."}],["$","meta","6",{"property":"og:url","content":"https://lgcns-solution.github.io/kr/solution/lena/release/v1.2.4-release-notes/"}],["$","meta","7",{"property":"og:site_name","content":"LG CNS Solutions"}],["$","meta","8",{"property":"og:locale","content":"ko_KR"}],["$","meta","9",{"property":"og:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"LENA 1.2.4 릴리즈 노트"}],["$","meta","13",{"name":"twitter:description","content":"LENA 1.2.4의 변경 항목과 상세 업데이트 내역입니다."}],["$","meta","14",{"name":"twitter:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","16",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"

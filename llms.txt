@@ -1,0 +1,24 @@
+# LG CNS Solutions
+
+> 엔터프라이즈 소프트웨어 솔루션(DevOn, LENA, TunA, J-Jobs)의 기술 인사이트, 활용 사례, 릴리스 정보를 제공하는 콘텐츠 플랫폼입니다.
+
+## Solutions
+- [DevOn](https://lgcns-solution.github.io/kr/solution/devon/): Java/Spring 기반 통합 개발 프레임워크
+- [LENA](https://lgcns-solution.github.io/kr/solution/lena/): 클라우드 네이티브 웹 애플리케이션 서버
+- [TunA](https://lgcns-solution.github.io/kr/solution/tuna/): 애플리케이션 성능 모니터링(APM) 솔루션
+- [J-Jobs](https://lgcns-solution.github.io/kr/solution/jjobs/): 엔터프라이즈 배치 스케줄링 솔루션
+
+## Editorial
+- [Spring Boot 릴리즈 주기와 업그레이드 전략](https://lgcns-solution.github.io/kr/solution/devon/deep-dive/spring-boot-release-upgrade-strategy/): Spring Boot의 6개월 릴리즈 주기가 만드는 업그레이드 부담을 DevOn Boot의 M+1 정기 릴리즈 전략으로 어떻게 해소하는지, Milestone 단계의 선제 검증부터 GA 후 1개월 이내 대응 프로세스, 그리고 프로젝트 현장에서 얻는 보안·운영·개발 관점의 효과까지 살펴봅니다.
+- [DevOn Boot 3.0의 멀티 데이터소스 트랜잭션 관리](https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-multi-datasource-transaction/): DevOn Boot 3.0의 신규 CombinedTransactionManager가 JDBC와 JPA를 동일한 트랜잭션 경계로 묶는 방식을 설명합니다. 기존 CompositeDataSourceTransactionManager의 한계와 체인 방식의 Best-Effort 1PC 메커니즘, 적용 시 유의사항을 함께 다룹니다.
+- [금융 아키텍처에서 프레임워크의 역할](https://lgcns-solution.github.io/kr/solution/devon/tech/financial-architecture-framework-role/): In-house 중심, 계정계 기반, 강한 규제 환경 등 한국형 금융 시스템의 구조적 특징을 살펴보고, 표준화·트랜잭션·성능·보안·운영 안정성 관점에서 금융 특화 프레임워크가 수행해야 할 역할을 정리합니다.
+- [Spring Boot vs Quarkus vs Micronaut 성능·생태계 비교](https://lgcns-solution.github.io/kr/solution/devon/market/spring-boot-quarkus-micronaut-comparison/): Spring Boot, Quarkus, Micronaut 세 프레임워크의 실행 방식·성능 특성·생태계 차이를 비교하고, SI 환경의 안정성·표준화 요구를 함께 고려한 선택 기준을 정리합니다.
+- [DevOn Boot 버전 업그레이드 체크리스트](https://lgcns-solution.github.io/kr/solution/devon/faq/devon-boot-version-upgrade-checklist/): DevOn Boot 파트가 매 정기 패치 사이클마다 수행하는 점검 절차를 단계별로 정리합니다. 버전 선정, 릴리즈 노트 분석, 의존성 갱신 경로 구분, AutoConfiguration 점검, OSS 취약점 스캔, 단계적 배포까지 마이너 업그레이드의 공통 점검 항목과 메이저 업그레이드의 추가 점검 항목을 함께 다룹니다.
+- [WAS 도입 1년 후, 다시 보게 되는 세 가지](https://lgcns-solution.github.io/kr/solution/lena/deep-dive/01/): WAS 도입 시점의 비교표에는 잘 드러나지 않지만, 실제 운영 1년 후에 더 크게 체감되는 세 가지 관점 — 운영 구조, 운영 기능, 기술지원 — 을 LENA 도입 사례와 함께 정리합니다.
+- [Kubernetes 환경에서 J-Jobs를 활용하는 4가지 업무 패턴](https://lgcns-solution.github.io/kr/solution/jjobs/tech/container-jjobs-patterns/): 컨테이너 환경에서 J-Jobs의 필요성과 Kubernetes 기반 업무 패턴 4가지를 정리합니다.
+
+## Release Notes
+- [LENA 릴리스 노트](https://lgcns-solution.github.io/kr/solution/lena/release/)
+- [TunA 릴리스 노트](https://lgcns-solution.github.io/kr/solution/tuna/release/)
+- [J-Jobs 릴리스 노트](https://lgcns-solution.github.io/kr/solution/jjobs/release/)
+
