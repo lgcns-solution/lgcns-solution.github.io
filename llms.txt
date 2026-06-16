@@ -9,6 +9,7 @@
 - [J-Jobs](https://lgcns-solution.github.io/kr/solution/jjobs/): 엔터프라이즈 배치 스케줄링 솔루션
 
 ## Editorial
+- [금융시스템 대량 데이터 처리](https://lgcns-solution.github.io/kr/solution/devon/deep-dive/financial-system-bulk-data-processing/): 금융 OLTP 환경에서 안정적으로 대량 요청을 처리하기 위한 캐시·제약사항·비동기 방안과, 대량 거래를 자동 반복 처리하는 센터컷 아키텍처를 DevOn Framework 관점에서 정리한다.
 - [Spring Boot 릴리즈 주기와 업그레이드 전략](https://lgcns-solution.github.io/kr/solution/devon/deep-dive/spring-boot-release-upgrade-strategy/): Spring Boot의 6개월 릴리즈 주기가 만드는 업그레이드 부담을 DevOn Boot의 M+1 정기 릴리즈 전략으로 어떻게 해소하는지, Milestone 단계의 선제 검증부터 GA 후 1개월 이내 대응 프로세스, 그리고 프로젝트 현장에서 얻는 보안·운영·개발 관점의 효과까지 살펴봅니다.
 - [DevOn Boot 3.0의 멀티 데이터소스 트랜잭션 관리](https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-multi-datasource-transaction/): DevOn Boot 3.0의 신규 CombinedTransactionManager가 JDBC와 JPA를 동일한 트랜잭션 경계로 묶는 방식을 설명합니다. 기존 CompositeDataSourceTransactionManager의 한계와 체인 방식의 Best-Effort 1PC 메커니즘, 적용 시 유의사항을 함께 다룹니다.
 - [금융 아키텍처에서 프레임워크의 역할](https://lgcns-solution.github.io/kr/solution/devon/tech/financial-architecture-framework-role/): In-house 중심, 계정계 기반, 강한 규제 환경 등 한국형 금융 시스템의 구조적 특징을 살펴보고, 표준화·트랜잭션·성능·보안·운영 안정성 관점에서 금융 특화 프레임워크가 수행해야 할 역할을 정리합니다.
