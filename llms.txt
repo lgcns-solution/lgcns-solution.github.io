@@ -16,6 +16,7 @@
 - [Spring Boot vs Quarkus vs Micronaut 성능·생태계 비교](https://lgcns-solution.github.io/kr/solution/devon/market/spring-boot-quarkus-micronaut-comparison/): Spring Boot, Quarkus, Micronaut 세 프레임워크의 실행 방식·성능 특성·생태계 차이를 비교하고, SI 환경의 안정성·표준화 요구를 함께 고려한 선택 기준을 정리합니다.
 - [DevOn Boot 버전 업그레이드 체크리스트](https://lgcns-solution.github.io/kr/solution/devon/faq/devon-boot-version-upgrade-checklist/): DevOn Boot 파트가 매 정기 패치 사이클마다 수행하는 점검 절차를 단계별로 정리합니다. 버전 선정, 릴리즈 노트 분석, 의존성 갱신 경로 구분, AutoConfiguration 점검, OSS 취약점 스캔, 단계적 배포까지 마이너 업그레이드의 공통 점검 항목과 메이저 업그레이드의 추가 점검 항목을 함께 다룹니다.
 - [WAS 도입 1년 후, 다시 보게 되는 세 가지](https://lgcns-solution.github.io/kr/solution/lena/deep-dive/01/): WAS 도입 시점의 비교표에는 잘 드러나지 않지만, 실제 운영 1년 후에 더 크게 체감되는 세 가지 관점 — 운영 구조, 운영 기능, 기술지원 — 을 LENA 도입 사례와 함께 정리합니다.
+- [Spring Boot 시대, 왜 미들웨어가 다시 중요해졌을까요](https://lgcns-solution.github.io/kr/solution/lena/deep-dive/02/): Spring Boot 기반 환경에서 개발 생산성은 높아졌지만 운영 복잡성도 함께 증가했습니다. 기업들이 다시 미들웨어에 주목하는 이유와 Embedded LENA가 해결하는 운영 과제를 소개합니다.
 - [Kubernetes 환경에서 J-Jobs를 활용하는 4가지 업무 패턴](https://lgcns-solution.github.io/kr/solution/jjobs/tech/container-jjobs-patterns/): 컨테이너 환경에서 J-Jobs의 필요성과 Kubernetes 기반 업무 패턴 4가지를 정리합니다.
 
 ## Release Notes
