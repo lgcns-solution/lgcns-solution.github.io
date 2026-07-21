@@ -77,6 +77,12 @@
 <priority>0.5</priority>
 </url>
 <url>
+<loc>https://lgcns-solution.github.io/kr/solution/devon/tech/msa-data-consistency-saga/</loc>
+<lastmod>2026-07-21</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
 <loc>https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/</loc>
 <lastmod>2026-06-05</lastmod>
 <changefreq>monthly</changefreq>

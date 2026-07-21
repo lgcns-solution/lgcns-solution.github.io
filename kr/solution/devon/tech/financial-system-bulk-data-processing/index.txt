@@ -14,11 +14,11 @@ f:I[4431,[],"MetadataBoundary"]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/dcb70eb70df27cb3.css","style"]
 :HL["/_next/static/css/fb657e9ddce9fb94.css","style"]
-0:{"P":null,"b":"MoUcMizOL0jFXm4fa89Fr","p":"","c":["","kr","solution","devon","tech","financial-system-bulk-data-processing",""],"i":false,"f":[[["",{"children":[["locale","kr","d"],{"children":["solution",{"children":[["solution","devon","d"],{"children":[["contentType","tech","d"],{"children":[["slug","financial-system-bulk-data-processing","d"],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dcb70eb70df27cb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fb657e9ddce9fb94.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_f367f3 __variable_ca1293 antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"LG CNS\",\"url\":\"https://www.lgcns.com\",\"sameAs\":[\"https://github.com/lgcns-solution\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"LG CNS Solutions\",\"url\":\"https://lgcns-solution.github.io\",\"inLanguage\":\"ko-KR\"}]"}}],["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":[["locale","kr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["solution",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["solution","devon","d"],["$","$1","c",{"children":[null,"$L7"]}],{"children":[["contentType","tech","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","financial-system-bulk-data-processing","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+0:{"P":null,"b":"nv2w_Tsi7xKkTOEXOR7Cv","p":"","c":["","kr","solution","devon","tech","financial-system-bulk-data-processing",""],"i":false,"f":[[["",{"children":[["locale","kr","d"],{"children":["solution",{"children":[["solution","devon","d"],{"children":[["contentType","tech","d"],{"children":[["slug","financial-system-bulk-data-processing","d"],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dcb70eb70df27cb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fb657e9ddce9fb94.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_f367f3 __variable_ca1293 antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"LG CNS\",\"url\":\"https://www.lgcns.com\",\"sameAs\":[\"https://github.com/lgcns-solution\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"LG CNS Solutions\",\"url\":\"https://lgcns-solution.github.io\",\"inLanguage\":\"ko-KR\"}]"}}],["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":[["locale","kr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["solution",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["solution","devon","d"],["$","$1","c",{"children":[null,"$L7"]}],{"children":[["contentType","tech","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","financial-system-bulk-data-processing","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
 13:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-1dbd7ec2fdf07496.js"],"Image"]
 14:I[9996,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-1dbd7ec2fdf07496.js"],"default"]
 7:["$","div",null,{"children":[["$","div",null,{"className":"border-b","style":{"borderColor":"#8C43A830"},"children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-8","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","$L5",null,{"href":"/kr/solution/devon/","className":"text-2xl font-bold","style":{"color":"#8C43A8"},"children":"DevOn"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"Java/Spring 기반 통합 개발 프레임워크"}]]}],["$","div",null,{"className":"flex shrink-0 items-start sm:justify-end","children":["$","div",null,{"className":"flex h-14 w-full max-w-[10rem] items-center justify-start sm:h-16 sm:max-w-[12rem] sm:justify-end","children":["$","$L13",null,{"src":"/logos/devon.svg","alt":"DevOn logo","width":158,"height":40,"className":"h-8 w-auto max-w-full origin-left object-contain object-left sm:h-9 sm:origin-right sm:object-right","style":{"transform":"scale(0.7)"},"sizes":"(min-width: 640px) 12rem, 10rem","priority":true}]}]}]]}]}]}],["$","$L14",null,{"solution":"devon","solutionColor":"#8C43A8","locale":"kr"}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
-15:T575,[{"@context":"https://schema.org","@type":"TechArticle","headline":"금융시스템 대량 데이터 처리","description":"금융 OLTP 환경에서 안정적으로 대량 요청을 처리하기 위한 캐시·제약사항·비동기 방안과, 대량 거래를 자동 반복 처리하는 센터컷 아키텍처를 DevOn Framework 관점에서 정리한다.","datePublished":"2026-06-05","dateModified":"2026-06-05","inLanguage":"ko-KR","image":["https://lgcns-solution.github.io/og-default.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/"},"url":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/","publisher":{"@type":"Organization","name":"LG CNS Solutions","url":"https://lgcns-solution.github.io"},"author":{"@type":"Person","name":"DevOn솔루션팀"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"DevOn","item":"https://lgcns-solution.github.io/kr/solution/devon/"},{"@type":"ListItem","position":2,"name":"Tech Blog","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/"},{"@type":"ListItem","position":3,"name":"금융시스템 대량 데이터 처리","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/"}]}]16:T726e,<p>20세기 은행이나 보험, 증권사와 같은 금융 회사를 방문하여 창구를 통해 금융서비스를 제공 받았던 시절과는 달리 지금은 모바일 기기의 확산, 광대역 통신망의 보급, H/W·S/W 수준의 향상에 힘입어 언제 어디서나 많은 사용자들이 금융서비스를 제공받고 있습니다.</p>
+15:T575,[{"@context":"https://schema.org","@type":"TechArticle","headline":"금융시스템 대량 데이터 처리","description":"금융 OLTP 환경에서 안정적으로 대량 요청을 처리하기 위한 캐시·제약사항·비동기 방안과, 대량 거래를 자동 반복 처리하는 센터컷 아키텍처를 DevOn Framework 관점에서 정리한다.","datePublished":"2026-06-05","dateModified":"2026-06-05","inLanguage":"ko-KR","image":["https://lgcns-solution.github.io/og-default.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/"},"url":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/","publisher":{"@type":"Organization","name":"LG CNS Solutions","url":"https://lgcns-solution.github.io"},"author":{"@type":"Person","name":"DevOn솔루션팀"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"DevOn","item":"https://lgcns-solution.github.io/kr/solution/devon/"},{"@type":"ListItem","position":2,"name":"Tech Blog","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/"},{"@type":"ListItem","position":3,"name":"금융시스템 대량 데이터 처리","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/financial-system-bulk-data-processing/"}]}]16:T72c2,<p>20세기 은행이나 보험, 증권사와 같은 금융 회사를 방문하여 창구를 통해 금융서비스를 제공 받았던 시절과는 달리 지금은 모바일 기기의 확산, 광대역 통신망의 보급, H/W·S/W 수준의 향상에 힘입어 언제 어디서나 많은 사용자들이 금융서비스를 제공받고 있습니다.</p>
 <p>이에 더해 인터넷 뱅킹사업자의 출현 및 오픈 뱅킹이 확산됨에 따라 서비스 사용량은 훨씬 증가하게 되었습니다.</p>
 <p>은행을 비롯해 그 외 다른 금융시스템은 모두 대량의 서비스 요청에 대비한 대량 데이터 처리 기능을 갖춰나갔고 금융 시스템 중 계정계, 기간계 등 주요 시스템의 프레임워크의 역할이 중요해졌습니다.</p>
 <p>이번 글에서는 금융시스템에서 대량 데이터 처리를 위해 사용하는 다양한 방안을 설명하고 이를 위해 DevOn Framework가 제공하는 솔루션을 소개합니다.</p>
@@ -27,8 +27,8 @@ f:I[4431,[],"MetadataBoundary"]
 <h3>1.1 데이터 캐시 처리</h3>
 <p>온라인 요청을 처리하기 위한 시스템에서 코드나 메시지 등 공용 데이터를 반복적으로 DB Table에서 조회하는 경우, 이를 속도가 빠른 Cache 메모리 영역에 보관해 두었다가 필요 시 제공하여 성능상 이점을 취하는 방식입니다.</p>
 <p>캐시는 저장하는 위치에 따라 종류를 아래와 같이 구분합니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/cache-types-overview.png" alt="캐시 종류별 계층 구조">
-<em>[캐시 종류별 계층 구조]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/cache-types-overview.png" alt="캐시 종류별 계층 구조"></p>
+<p><em>[캐시 종류별 계층 구조]</em></p>
 <table>
 <thead>
 <tr>
@@ -94,8 +94,8 @@ f:I[4431,[],"MetadataBoundary"]
 </ul>
 <h4>※ DevOn Framework의 제공 솔루션</h4>
 <p>위에서 설명한 캐시 기능을 DevOn Framework에서 어떤 방식으로 제공하고 있는지 살펴보겠습니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/devon-cache-architecture.png" alt="DevOn Framework Cache 구성">
-<em>[DevOn Framework Cache 구성]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/devon-cache-architecture.png" alt="DevOn Framework Cache 구성"></p>
+<p><em>[DevOn Framework Cache 구성]</em></p>
 <p><strong>A. Local Cache 기능</strong></p>
 <p>기본적으로 각 서버별 로컬 캐시를 통해 프레임워크 파라미터와 같은 Thread와 무관한 공용 데이터를 로컬 캐시에 저장하여 관리합니다.</p>
 <p>해당 캐시 정보는 프레임워크 운영관리 화면에서 편리하게 관리할 수 있으며, 내용이 갱신되는 경우 서버 재시작 없이 Refresh 할 수 있도록 구성되어 있습니다.</p>
@@ -191,21 +191,21 @@ f:I[4431,[],"MetadataBoundary"]
 <p>DevOn Framework는 대량 처리 온라인 시스템의 안정성 보장을 위해 다음과 같은 제약사항을 설정할 수 있습니다.</p>
 <p><strong>A. SQL 처리건수 제약</strong></p>
 <p>프레임워크에 설정된 Max Fetch Count를 초과하여 SELECT SQL 데이터가 조회된 경우, ResultSet에서 Data Transfer Object로 변환할 때 이를 체크하여 오류를 발생시키며 해당 서비스는 에러를 반환합니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/sql-max-fetch-count.png" alt="조회 건수 제한 처리 방식">
-<em>[조회 건수 제한 처리 방식]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/sql-max-fetch-count.png" alt="조회 건수 제한 처리 방식"></p>
+<p><em>[조회 건수 제한 처리 방식]</em></p>
 <p>이런 제약사항의 설정을 통해 서비스의 무분별한 메모리 점유를 방지하여 시스템 안정성을 높입니다. 전체 SQL에 대한 제약이 가능하며, 필요한 경우 SQL별 건수 제한도 제공합니다.</p>
 <p><strong>B. 최대 List 건수 제한</strong></p>
 <p>DevOn Enterprise Framework는 내부 DTO(Data Transfer Object)로 자체 개발한 Map과 List를 사용하여 처리하도록 제한되어 있습니다.</p>
 <p>특히 다건을 적재하기 위한 List는 Max Count를 설정하고, 이를 초과하여 적재하는 경우 오류가 발생하도록 구현되어 있습니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/list-max-count-limit.png" alt="최대 List 건수 제한 처리 방식">
-<em>[최대 List 건수 제한 처리 방식]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/list-max-count-limit.png" alt="최대 List 건수 제한 처리 방식"></p>
+<p><em>[최대 List 건수 제한 처리 방식]</em></p>
 <p>업무 Application은 별도의 객체를 사용하지 못하도록 개발 단계에서 정적 inspection을 통해 제한하고 있으며, 표준 List 개체의 건수 제약을 통해 Out of Memory를 방지하고 Major GC 발생을 최소화하고 있습니다.</p>
 <p><strong>C. 서비스 Timeout 설정</strong></p>
 <p>DevOn Enterprise Framework의 서비스는 DB에 적재되는 파라미터 정보를 기반으로 실행되며, 이 정보 중에는 서비스별 Timeout 정보도 포함되어 있습니다.</p>
 <p>해당 정보는 프레임워크 운영관리 화면을 통해 관리하고 실시간으로 변경 적용할 수 있습니다.</p>
 <p>서비스 내에서 DB SQL을 실행할 때마다 매번 서비스 수행시간이 설정된 Timeout을 초과하였는지 체크하며, 초과한 경우 오류를 발생시켜 서비스를 중단시킵니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/service-timeout.png" alt="서비스 Timeout 처리 방식">
-<em>[서비스 Timeout 처리 방식]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/service-timeout.png" alt="서비스 Timeout 처리 방식"></p>
+<p><em>[서비스 Timeout 처리 방식]</em></p>
 <p>서비스별 Timeout을 설정하면 특정 서비스에 의해 시스템 Resource가 점유되는 현상을 방지할 수 있어 대량 온라인 처리 시스템의 안정성을 향상시킬 수 있습니다.</p>
 <p>또한, DevOn에서 제공하는 운영관리의 거래 로그 화면에서는 조회 조건에서 특정 시간 이상 소요된 거래를 선택할 수 있어 Timeout 문제 해결에 도움을 줍니다.</p>
 <h3>1.3 비동기 처리 지원</h3>
@@ -216,11 +216,11 @@ f:I[4431,[],"MetadataBoundary"]
 <p>다음은 업무 프로그램에서 응답 속도를 높이기 위해 많이 사용하는 비동기 처리 방식에 대해 살펴 보겠습니다.</p>
 <p><strong>멀티 모듈 동시 호출 방식</strong></p>
 <p>업무 모듈의 로직 중 다른 다수의 모듈을 호출한 후 그 결과를 통합하여 다음 작업을 진행하는 경우, 모든 모듈의 호출이 순차적으로 이루어지므로 처리 시간이 많이 소요됩니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/sync-call-flow.png" alt="동기 순차 처리">
-<em>[동기 순차 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/sync-call-flow.png" alt="동기 순차 처리"></p>
+<p><em>[동기 순차 처리]</em></p>
 <p>모듈 호출을 비동기 방식으로 처리할 수 있다면 어떻게 될까요. 다음과 같이 응답 시간이 변경될 수 있습니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/async-call-flow.png" alt="비동기 병렬 처리">
-<em>[비동기 병렬 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/async-call-flow.png" alt="비동기 병렬 처리"></p>
+<p><em>[비동기 병렬 처리]</em></p>
 <p>중간에 호출되는 모듈 A·B·C 중 가장 긴 응답시간을 가지는 모듈 B의 응답시간만큼만 소요되어 전체 응답시간이 줄어드는 효과를 볼 수 있습니다.</p>
 <h4>※ DevOn Framework의 제공 기능</h4>
 <p>DevOn Enterprise Framework에서는 비동기 멀티 호출을 지원하기 위해 다음과 같은 기능을 제공합니다.</p>
@@ -230,8 +230,8 @@ f:I[4431,[],"MetadataBoundary"]
 <p>위와 같이 화면을 통해 입력된 설정값에 따라 프레임워크가 비동기 방식으로 알아서 호출해 주므로 업무에서 별도 처리는 불필요합니다.</p>
 <p><strong>B. 호출 응답값 획득용 API 제공</strong></p>
 <p>위에서 살펴본 것처럼 비동기 멀티 호출 방식은 결과값을 모아야 할 필요가 있습니다. 비동기 처리 모듈에 대한 결과값 획득은 내부적으로 Java Future 클래스를 이용하는 API를 제공합니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/future-api-example.png" alt="비동기 연동 서비스 호출 및 결과 반환 흐름">
-<em>[비동기 연동 서비스 호출 및 결과 반환 흐름]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/future-api-example.png" alt="비동기 연동 서비스 호출 및 결과 반환 흐름"></p>
+<p><em>[비동기 연동 서비스 호출 및 결과 반환 흐름]</em></p>
 <p>위 흐름에서 볼 수 있듯이, 프레임워크에서 제공하는 API 함수를 통해 비동기 호출에 대한 응답 결과를 획득할 수 있습니다.</p>
 <p>업무 개발 담당자는 이런 프레임워크 기능을 잘 활용하여 효율적으로 수행되는 업무 프로그램의 처리 로직을 작성하면 됩니다.</p>
 <p>이런 프레임워크 기능을 활용하면 전체적인 실시간 응답 시간을 단축하여 고객들에게 보다 만족스러운 금융서비스를 제공할 수 있습니다.</p>
@@ -239,22 +239,22 @@ f:I[4431,[],"MetadataBoundary"]
 <p>은행 단말 화면을 통해 처리해야 하는 업무 A가 있습니다.</p>
 <p>보통은 담당자가 화면을 통해 정보를 입력하고 처리를 수행하겠지만, 처리해야 하는 건수가 천, 만 단위가 된다면 어떨까요. 담당자는 반복되는 처리 작업을 수행하기 위해 밤을 새야 할 수도 있습니다.</p>
 <p>하지만 밤을 새다가 영업일자가 변경되면 곤란해질 수도 있겠죠.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/manual-bulk-processing-limit.png" alt="온라인 단말 프로그램을 통한 다건 처리">
-<em>[온라인 단말 프로그램을 통한 다건 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/manual-bulk-processing-limit.png" alt="온라인 단말 프로그램을 통한 다건 처리"></p>
+<p><em>[온라인 단말 프로그램을 통한 다건 처리]</em></p>
 <p>이런 대량 건의 반복 작업을 사람이 일일이 처리하기는 한계가 있으니, 배치 프로그램을 만들어 작성할 수 있을 겁니다.</p>
 <p>하지만 여기에도 문제가 있습니다. 온라인 로직에 포함된 공통 처리(예: 회계 처리)를 배치용 선후처리에 추가 작성해야 하며, 이미 구현한 서비스 로직 또한 배치용으로 다시 작성해야 하는 번거로움도 발생합니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/batch-module-duplication.png" alt="배치 프로그램을 통한 다건 처리">
-<em>[배치 프로그램을 통한 다건 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/batch-module-duplication.png" alt="배치 프로그램을 통한 다건 처리"></p>
+<p><em>[배치 프로그램을 통한 다건 처리]</em></p>
 <p>마치 사용자가 수천 번, 수만 번 화면을 통해 호출한 것처럼 처리할 수는 없을까요.</p>
 <p>그렇게 된다면 온라인 프로그램만으로 처리가 가능하므로 프로그램 유지보수 차원에서도 훨씬 간단해지고, 대량 처리도 가능해집니다.</p>
 <p>이럴 때 적합한 해결 방안이 센터컷 아키텍처입니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/centercut-concept.png" alt="센터컷을 이용한 다건 처리">
-<em>[센터컷을 이용한 다건 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/centercut-concept.png" alt="센터컷을 이용한 다건 처리"></p>
+<p><em>[센터컷을 이용한 다건 처리]</em></p>
 <p>센터컷 아키텍처는 간단히 말해, 센터컷 프로세서에게 작업 명령을 내리면 센터컷 프로세스가 미리 적재된 데이터를 이용하여 사람을 대신해 온라인 서비스를 반복 호출해 주는 기능입니다.</p>
 <h3>2.1 DevOn Framework Centercut Architecture</h3>
 <p>DevOn Framework에서 제공하는 센터컷 아키텍처의 전체 그림을 통해 센터컷 동작 방식을 자세히 살펴보도록 하겠습니다.</p>
-<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/devon-centercut-architecture.png" alt="센터컷을 이용한 다건 처리">
-<em>[센터컷을 이용한 다건 처리]</em></p>
+<p><img src="/content-assets/devon/tech/assets/financial-system-bulk-data-processing/devon-centercut-architecture.png" alt="센터컷을 이용한 다건 처리"></p>
+<p><em>[센터컷을 이용한 다건 처리]</em></p>
 <p>센터컷 작업은 별도의 센터컷 인스턴스에서 동작하며, 여러 인스턴스에서 병렬로 실행되는 센터컷 프로세서에 의해 대량 데이터를 빠른 시간 내에 처리할 수 있습니다.</p>
 <p>센터컷 메인 매니저는 각 프로세서에 대한 작업을 제어하여 보다 안정적으로 작업을 수행할 수 있도록 도와줍니다.</p>
 <p>센터컷 DB는 별도로 구성하여 기본적인 센터컷 설정, 작업을 수행할 목표 데이터, 병렬 처리의 효율 향상을 위한 그룹 정보 등을 관리합니다.</p>
