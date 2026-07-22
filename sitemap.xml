@@ -71,12 +71,6 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://lgcns-solution.github.io/kr/solution/devon/tech/spring-boot-release-upgrade-strategy/</loc>
-<lastmod>2026-04-15</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
 <loc>https://lgcns-solution.github.io/kr/solution/devon/tech/msa-data-consistency-saga/</loc>
 <lastmod>2026-07-21</lastmod>
 <changefreq>monthly</changefreq>
@@ -103,6 +97,12 @@
 <url>
 <loc>https://lgcns-solution.github.io/kr/solution/devon/tech/spring-boot-quarkus-micronaut-comparison/</loc>
 <lastmod>2026-05-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://lgcns-solution.github.io/kr/solution/devon/tech/spring-boot-release-upgrade-strategy/</loc>
+<lastmod>2026-04-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
