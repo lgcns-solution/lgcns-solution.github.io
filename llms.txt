@@ -25,6 +25,7 @@
 - [Spring Boot 시대, 왜 미들웨어가 다시 중요해졌을까요](https://lgcns-solution.github.io/kr/solution/lena/tech/02/): Spring Boot 기반 환경에서 개발 생산성은 높아졌지만 운영 복잡성도 함께 증가했습니다. 기업들이 다시 미들웨어에 주목하는 이유와 Embedded LENA가 해결하는 운영 과제를 소개합니다.
 - [클라우드 네이티브 시대의 WAS, 엔터프라이즈 스펙을 다시 묻다](https://lgcns-solution.github.io/kr/solution/lena/tech/03/): 클라우드 네이티브 시대, WAS에는 빠른 기동과 자원 효율성은 물론 엔터프라이즈 스펙을 유연하게 지원하는 역량까지 요구되고 있습니다. 경량성과 Jakarta EE 10의 완비성을 함께 갖춘 LENA가 새로운 WAS 운영 기준을 어떻게 충족하는지 소개합니다.
 - [빨라지는 AI 시대의 보안 위협, 미들웨어 대응도 달라져야 합니다](https://lgcns-solution.github.io/kr/solution/lena/tech/04/): AI 시대의 보안은 새로운 취약점이 얼마나 적게 발견되는가보다, 공개된 취약점을 얼마나 빨리 확인하고 대응하는가에 달려 있습니다. AI 시대의 보안 위협에 기업의 미들웨어 보안 대응 체계가 갖춰야 할 기준을 살펴봅니다.
+- [AI × Workload Automation, 시장은 지금 어디로 가고 있나](https://lgcns-solution.github.io/kr/solution/jjobs/tech/ai-workload-automation-market-newsletter-01/): 워크로드 자동화 시장의 성장 전망과 글로벌 솔루션의 AI 적용 패턴을 살펴보고, 국내 시장의 통제·거버넌스 과제와 J-Jobs의 AI 운영 지원 방향을 소개합니다.
 - [Kubernetes 환경에서 J-Jobs를 활용하는 4가지 업무 패턴](https://lgcns-solution.github.io/kr/solution/jjobs/tech/container-jjobs-patterns/): 컨테이너 환경에서 J-Jobs의 필요성과 Kubernetes 기반 업무 패턴 4가지를 정리합니다.
 
 ## Release Notes
