@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[5545,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-81016be690326a75.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","479","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/%5BcontentType%5D/%5Bslug%5D/page-7e9b21690c9de33d.js"],""]
+6:I[7923,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-81016be690326a75.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/css/e1ac71e2939906af.css","style"]
+:HL["/_next/static/css/f197711123a0aa0f.css","style"]
+:HL["/_next/static/css/2211c6adfda74c5f.css","style"]
+0:{"P":null,"b":"kRraxU0PDPgJm0U-kYc-U","p":"","c":["","kr","solution","devon","tech","devon-boot-startup-bean-separation-strategy",""],"i":false,"f":[[["",{"children":[["locale","kr","d"],{"children":["solution",{"children":[["solution","devon","d"],{"children":[["contentType","tech","d"],{"children":[["slug","devon-boot-startup-bean-separation-strategy","d"],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e1ac71e2939906af.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f197711123a0aa0f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"}]}],["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"LG CNS\",\"url\":\"https://www.lgcns.com\",\"sameAs\":[\"https://github.com/lgcns-solution\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"LG CNS Solutions\",\"url\":\"https://lgcns-solution.github.io\",\"inLanguage\":\"ko-KR\"}]"}}],["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center text-center px-4","children":[["$","h1",null,{"className":"text-6xl font-bold text-foreground","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"요청하신 페이지를 찾을 수 없습니다."}],["$","$L5",null,{"href":"/","className":"mt-8 rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-80","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]]}]]}],{"children":[["locale","kr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["solution",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["solution","devon","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2211c6adfda74c5f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L7"]}],{"children":[["contentType","tech","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","devon-boot-startup-bean-separation-strategy","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],null],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-dc1bbe1e82b8bc19.js"],"Image"]
+14:I[9996,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1cbf59d25a49fb83.js","792","static/chunks/app/%5Blocale%5D/solution/%5Bsolution%5D/layout-dc1bbe1e82b8bc19.js"],"default"]
+7:["$","div",null,{"children":[["$","div",null,{"className":"solution-header-bg header-devon border-b","style":{"borderColor":"#8C43A830"},"children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-8","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","$L5",null,{"href":"/kr/solution/devon/","className":"text-2xl font-bold","style":{"color":"#8C43A8"},"children":"DevOn"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"Java/Spring 기반 통합 개발 프레임워크"}]]}],["$","div",null,{"className":"flex shrink-0 items-start sm:justify-end","children":["$","div",null,{"className":"flex h-14 w-full max-w-[10rem] items-center justify-start sm:h-16 sm:max-w-[12rem] sm:justify-end","children":["$","$L13",null,{"src":"/logos/devon.svg","alt":"DevOn logo","width":158,"height":40,"className":"h-8 w-auto max-w-full origin-left object-contain object-left sm:h-9 sm:origin-right sm:object-right","style":{"transform":"scale(0.7)"},"sizes":"(min-width: 640px) 12rem, 10rem","priority":true}]}]}]]}]}]}],["$","$L14",null,{"solution":"devon","solutionColor":"#8C43A8","locale":"kr"}],["$","div",null,{"className":"page-content mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
+15:T59c,[{"@context":"https://schema.org","@type":"TechArticle","headline":"기동 성능 최적화를 위한 Bean 분리 전략","description":"대규모 배치의 기동 지연 원인을 짚고, GraalVM 대신 Spring의 확장 포인트를 활용해 필요한 Bean만 먼저 생성하는 DevOn Boot LiveScan의 동작 방식과 적용 시 고려사항을 정리합니다.","datePublished":"2026-11-26","dateModified":"2026-11-26","inLanguage":"ko-KR","image":["https://lgcns-solution.github.io/og-default.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/"},"url":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/","publisher":{"@type":"Organization","name":"LG CNS Solutions","url":"https://lgcns-solution.github.io"},"author":{"@type":"Person","name":"DevOn솔루션팀"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"DevOn","item":"https://lgcns-solution.github.io/kr/solution/devon/"},{"@type":"ListItem","position":2,"name":"Tech Blog","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/"},{"@type":"ListItem","position":3,"name":"기동 성능 최적화를 위한 Bean 분리 전략","item":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/"}]}]8:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","article",null,{"className":"mx-auto max-w-3xl","children":[["$","$L5",null,{"href":"/kr/solution/devon/tech/","className":"mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-foreground transition-colors","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"Tech Blog"," 목록으로"]}],["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold text-white","style":{"backgroundColor":"#8C43A8"},"children":"Featured"}],["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-foreground sm:text-4xl","children":"기동 성능 최적화를 위한 Bean 분리 전략"}],["$","p",null,{"className":"mt-3 text-lg text-muted","children":"대규모 배치의 기동 지연 원인을 짚고, GraalVM 대신 Spring의 확장 포인트를 활용해 필요한 Bean만 먼저 생성하는 DevOn Boot LiveScan의 동작 방식과 적용 시 고려사항을 정리합니다."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 border-y border-border py-4 text-sm text-muted","children":[["$","time",null,{"dateTime":"2026-11-26","children":"2026년 11월 26일"}],[["$","span",null,{"className":"text-border","children":"|"}],["$","span",null,{"children":"DevOn솔루션팀"}]],"$undefined","$undefined"]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","tech",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"tech"}],["$","span","devon-boot",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"devon-boot"}],["$","span","livescan",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"livescan"}],["$","span","startup-performance",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"startup-performance"}],["$","span","spring-batch",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"spring-batch"}],["$","span","lazy-loading",{"className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium","style":{"backgroundColor":"#8C43A815","color":"#8C43A8"},"children":"lazy-loading"}]]}]]}],"$L16"]}]]
+17:T276c,<h2>Bean 3,000개 중에 실제로 쓰는 건 10개, 그런데 왜 다 로딩할까</h2>
+<p>서비스 규모가 커질수록 Bean 로딩 메커니즘의 특성상 기동 성능 저하가 발생할 수 있습니다. 최근 이 문제의 해법으로 GraalVM이 자주 거론됩니다. DevOn Boot는 아키텍처를 바꾸지 않고도 기동 속도를 개선할 수 있는 Bean 로딩 전략을 제시합니다.</p>
+<h2>배치는 왜 이렇게 느려졌을까</h2>
+<p>이 문제는 특히 배치 환경에서 두드러집니다. 금융권이나 대규모 SI 환경에서는 시스템에서 쓰는 모든 Job과 공통 라이브러리, 업무 공통 코드를 하나의 배치 애플리케이션에 묶어 배포하고, 실행 시점에 파라미터로 원하는 Job만 골라 실행하는 방식을 씁니다. 그러다 보니 오늘 밤 실행할 Job은 1~2개뿐인데도, 기동 시점에는 애플리케이션에 포함된 전체 Job과 공통 코드가 함께 로딩되면서 관련 없는 Bean까지 만들어집니다. Job 수는 계속 늘어나는데, 온라인 서비스가 24시간 상시 운영되는 추세라 배치에 안전하게 할당할 수 있는 시간대는 오히려 줄어들고 있습니다. 그 결과 기동 지연이 곧 전체 처리 시간 지연으로 이어집니다.</p>
+<h2>배치는 특히, 필요한 Bean을 미리 선택할 수 없습니다</h2>
+<p>온라인과 달리 배치는 어떤 Job이 실행될지 실행 전에는 알 수 없습니다. 오늘 무엇을 실행할지는 코드가 아니라 실행 시점에 넘기는 파라미터에만 담겨 있어서, 빌드 시점은 물론 기동 초기에도 알 수 없습니다. 그래서 배치의 기동 지연을 제대로 풀려면, 지연 초기화 메커니즘 자체가 이 실행 시점 파라미터를 들여다볼 수 있어야 합니다.</p>
+<h2>GraalVM이 먼저 떠오르지만</h2>
+<p>컴파일 시점에 애플리케이션을 통째로 분석해 리플렉션과 동적 프록시 사용을 최소화하기 때문에, GraalVM Native Image는 기동 시간 자체를 밀리초 단위로 줄여줍니다.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>기존 Spring(JVM)</th>
+<th>GraalVM Native Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>기동 속도</td>
+<td>보통</td>
+<td>매우 빠름</td>
+</tr>
+<tr>
+<td>메모리 사용량</td>
+<td>비교적 높음</td>
+<td>낮음</td>
+</tr>
+<tr>
+<td>리플렉션·동적 프록시</td>
+<td>제약 없음</td>
+<td>별도 설정 필요</td>
+</tr>
+<tr>
+<td>빌드·CI 복잡도</td>
+<td>단순</td>
+<td>네이티브 빌드 도구체인 별도 관리</td>
+</tr>
+<tr>
+<td>기존 코드 전환 비용</td>
+<td>없음</td>
+<td>리플렉션 의존이 많을수록 커짐</td>
+</tr>
+</tbody>
+</table>
+<p>다만 도입 자체에도 진입장벽이 있습니다. 네이티브 이미지 빌드는 일반 JAR 빌드보다 훨씬 오래 걸리고, 일부 라이브러리는 별도의 리플렉션 설정 없이는 정상 동작하지 않습니다. 여기에 이미 돌아가고 있는 시스템이라면 부담은 더 커집니다. 리플렉션에 의존하는 코드가 많을수록, 빌드 파이프라인을 새로 구성해야 하는 부담이 클수록 전환 비용이 커집니다.</p>
+<h2>답은 이미 Spring 안에 있었습니다</h2>
+<p>신규 도입이든 기존 시스템 전환이든 부담이 크기는 마찬가지이기 때문에, DevOn Boot는 아키텍처를 바꾸는 대신 Spring이 표준으로 제공하는 확장 포인트를 그대로 사용합니다. Bean 등록을 스캔 단계에서 걸러내는 방법도 검토했지만, 이 경우 실행 시점 파라미터를 들여다볼 수 없어 앞서 말한 조건과 맞지 않았습니다. 반면 <code>BeanFactoryPostProcessor</code>는 모든 Bean 정의가 끝난 뒤 한 번에 후처리하면서 동시에 <code>Environment</code>(실행 시점 파라미터)에도 접근할 수 있어서, 이 조건을 그대로 만족합니다. 그리고 이 방식은 배치에만 머물지 않습니다. 온라인 애플리케이션에서도 인프라 Bean은 즉시, 업무 Bean은 지연해서 만드는 동일한 원리가 그대로 적용됩니다.</p>
+<h2>실제로는 이렇게 동작합니다</h2>
+<p>DevOn Boot는 이 원칙을 LiveScan이라는 기능으로 제공합니다. 기본은 전부 지연해서 만들고, 정말 필요한 Bean만 예외적으로 먼저 만듭니다. "먼저 만들어야 하는 Bean"으로 인정하는 기준은 네 가지뿐입니다. 프레임워크 인프라이거나, 명시적으로 즉시 생성하도록 선언되었거나, 특정 초기화 인터페이스를 구현했거나, 배치라면 지금 실행 중인 Job에 해당하는 경우입니다. 이 네 가지로 충분하지 않다면, <code>additional-filters</code> 설정으로 특정 어노테이션이나 타입, 정규식 조건을 기준 삼아 eager Bean을 직접 추가할 수 있습니다.</p>
+<pre><code class="hljs language-yaml"><span class="hljs-attr">devon:</span>
+  <span class="hljs-attr">livescan:</span>
+    <span class="hljs-attr">additional-filters:</span>
+      <span class="hljs-bullet">-</span> <span class="hljs-attr">type:</span> <span class="hljs-string">ANNOTATION</span>
+        <span class="hljs-attr">expression:</span> <span class="hljs-string">com.example.annotation.EagerBean</span>
+</code></pre>
+<p>적용도 어렵지 않습니다. 온라인은 의존성만 추가하면 자동으로 동작하고, 배치는 Job 설정 클래스에 어노테이션 하나만 붙이면 됩니다.</p>
+<p>업무 모듈이 수천 개 클래스 규모로 커지면, 컴포넌트 스캔 자체를 건너뛰고 실행할 Job과 그 의존 패키지만 골라 등록하는 확장 모드도 제공합니다. 이 모드를 쓰려면 애플리케이션 클래스에 두 가지를 함께 선언해야 합니다. <code>@ComponentScan</code>에서 <code>@BatchJob</code> 클래스를 제외하고, 그 대신 확장 모드를 활성화하는 어노테이션을 붙이는 것입니다. 둘 중 하나만 쓰면 오히려 문제가 생기는데, 제외만 하고 활성화를 안 하면 Job이 아예 등록되지 않고, 활성화만 하고 제외를 안 하면 원래 스캔이 그대로 살아있어 모드를 켠 의미가 없어집니다.</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@EnableLiveScanExcludedMode</span>
+<span class="hljs-meta">@SpringBootApplication</span>
+<span class="hljs-meta">@ComponentScan(excludeFilters = @ComponentScan.Filter(
+    type = FilterType.ANNOTATION, classes = BatchJob.class))</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">BatchApplication</span> { ... }
+</code></pre>
+<p>이렇게 설정해두면, 별도 선언 없이도 Job 설정 클래스가 참조하는 필드나 파라미터 타입을 따라가면서 관련 패키지를 자동으로 찾아줍니다.</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@BatchJob</span>
+<span class="hljs-meta">@Configuration</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">MonthlyReportJobConfig</span> {
+
+    <span class="hljs-meta">@Autowired</span>
+    <span class="hljs-keyword">private</span> MonthlyReportService service;   <span class="hljs-comment">// 이 타입의 패키지를 자동으로 찾아 등록</span>
+
+    <span class="hljs-meta">@Bean</span>
+    <span class="hljs-keyword">public</span> Job <span class="hljs-title function_">monthlyReport</span><span class="hljs-params">(Step step1)</span> { ... }
+}
+</code></pre>
+<p>이렇게 등록된 의존 Bean은 별도로 eager 설정을 하지 않아도, 오늘 실행할 Job이 직접 참조하는 만큼 생성 과정에서 자연스럽게 함께 만들어집니다.</p>
+<p>이렇게 분류된 결과는 운영 중에도 별도 엔드포인트로 조회할 수 있어서, 배포 후에 "왜 이 Bean이 즉시 생성됐는지"를 바로 확인할 수 있습니다.</p>
+<h2>그래서 얼마나 빨라질까</h2>
+<p>이 수치는 실제 운영 환경이 아니라 테스트 조건(Bean 500개, Bean당 초기화 10ms 가정)에서 측정한 결과입니다.</p>
+<table>
+<thead>
+<tr>
+<th>시나리오</th>
+<th>조건</th>
+<th>결과</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>실제 사용 패턴</td>
+<td>500개 중 10개만 사용</td>
+<td>6,040ms → 126ms</td>
+</tr>
+<tr>
+<td>대규모 배치</td>
+<td>50개 Job 중 1개만 실행</td>
+<td>약 2,500ms → 약 50ms</td>
+</tr>
+</tbody>
+</table>
+<p>눈에 띄는 건 개선 폭 자체보다, 업무 모듈이 크고 실행되지 않는 Job이 많을수록 효과가 더 커진다는 경향입니다. "전체 중 극히 일부만 쓰는" 대규모 배치일수록 이 전략의 이득이 크다는 뜻입니다.</p>
+<h2>적용 전 체크리스트</h2>
+<ul>
+<li>업무 모듈이 수백 개 클래스 이하라면 별도 설정 없이 기본 방식으로 충분한지 확인했는가</li>
+<li>업무 모듈이 수천 개 규모이고 패키지가 Job 단위로 잘 나뉘어 있다면 확장 모드를 검토했는가</li>
+<li>Quartz 등 런타임 파라미터로 판별되지 않는 실행 방식이 섞여 있다면 해당 Bean을 별도로 지정했는가</li>
+<li>배포 전에 <code>/actuator/livescan</code>으로 eager Bean 목록과 이유를 확인했는가</li>
+</ul>
+<h2>마무리</h2>
+<p>다만 모든 상황에 맞는 건 아닙니다. Quartz처럼 실행 대상을 <code>spring.batch.job.name</code>이 아닌 다른 방식으로 결정하는 스케줄러는 자동으로 판별되지 않아 별도 설정이 필요합니다. 기본 방식은 업무 모듈이 극단적으로 많은 환경에서는 스캔 비용 자체가 완전히 없어지지는 않는데, 이런 경우엔 앞서 설명한 확장 모드로 보완할 수 있습니다.</p>
+<p>그럼에도 대규모 배치가 느려지는 근본 원인은 업무 공통 소스를 폭넓게 참조하는 구조 그 자체에 있습니다. DevOn Boot LiveScan은 아키텍처를 바꾸지 않고 이 문제를 실질적으로 줄이는 방향을 택했습니다.</p>16:["$","div",null,{"className":"prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-gray-700 prose-a:text-blue-600 prose-strong:text-foreground","dangerouslySetInnerHTML":{"__html":"$17"}}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+18:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"기동 성능 최적화를 위한 Bean 분리 전략 | LG CNS Solutions"}],["$","meta","1",{"name":"description","content":"대규모 배치의 기동 지연 원인을 짚고, GraalVM 대신 Spring의 확장 포인트를 활용해 필요한 Bean만 먼저 생성하는 DevOn Boot LiveScan의 동작 방식과 적용 시 고려사항을 정리합니다."}],["$","link","2",{"rel":"canonical","href":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/"}],["$","link","3",{"rel":"alternate","hrefLang":"ko-KR","href":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/"}],["$","meta","4",{"property":"og:title","content":"기동 성능 최적화를 위한 Bean 분리 전략"}],["$","meta","5",{"property":"og:description","content":"대규모 배치의 기동 지연 원인을 짚고, GraalVM 대신 Spring의 확장 포인트를 활용해 필요한 Bean만 먼저 생성하는 DevOn Boot LiveScan의 동작 방식과 적용 시 고려사항을 정리합니다."}],["$","meta","6",{"property":"og:url","content":"https://lgcns-solution.github.io/kr/solution/devon/tech/devon-boot-startup-bean-separation-strategy/"}],["$","meta","7",{"property":"og:site_name","content":"LG CNS Solutions"}],["$","meta","8",{"property":"og:locale","content":"ko_KR"}],["$","meta","9",{"property":"og:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"기동 성능 최적화를 위한 Bean 분리 전략"}],["$","meta","13",{"name":"twitter:description","content":"대규모 배치의 기동 지연 원인을 짚고, GraalVM 대신 Spring의 확장 포인트를 활용해 필요한 Bean만 먼저 생성하는 DevOn Boot LiveScan의 동작 방식과 적용 시 고려사항을 정리합니다."}],["$","meta","14",{"name":"twitter:image","content":"https://lgcns-solution.github.io/og-default.png"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L18","16",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
